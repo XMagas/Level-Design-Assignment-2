@@ -978,3 +978,45 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.28-15.08.55:576][947]LogSavePackage: Moving '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Saved/PictureSpot1_BPC19063AC4B7BDCDDB776C99CBDB39628.tmp' to '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Content/ThirdPersonBP/Blueprints/PictureSpot1_BP.uasset'
 [2022.03.28-15.08.55:589][947]AssetCheck: New page: Asset Save: PictureSpot1_BP
 [2022.03.28-15.08.55:589][947]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/PictureSpot1_BP.PictureSpot1_BP
+[2022.03.28-15.09.24:455][933]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.03.28-15.09.24:470][933]LogSavePackage: Moving '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Saved/Marika_Auto1DE9A16024A40925932A07EA9E2E9D88D.tmp' to '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Saved/Autosaves/Game/ThirdPersonBP/Maps/Marika_Auto1.umap'
+[2022.03.28-15.09.24:474][933]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/Marika' took 0.041
+[2022.03.28-15.09.24:474][933]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.041
+[2022.03.28-15.09.24:474][933]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Sprites/Symbol_Triangle] ([1] browsable assets)...
+[2022.03.28-15.09.24:478][933]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Sprites/Symbol_Triangle.Symbol_Triangle]
+[2022.03.28-15.09.24:478][933]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Sprites/Symbol_Triangle]
+[2022.03.28-15.09.24:483][933]LogSavePackage: Moving '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Saved/Symbol_Triangle_Auto11957B69B40F0055B8DA2B3AADE64FC51.tmp' to '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Saved/Autosaves/Game/ThirdPersonBP/Sprites/Symbol_Triangle_Auto1.uasset'
+[2022.03.28-15.09.24:483][933]LogFileHelpers: Auto-saving content packages took 0.010
+[2022.03.28-15.09.37:062][ 21]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.03.28-15.09.37:077][ 21]LogContentBrowser: Creating deferred item: NewFolder
+[2022.03.28-15.09.39:789][347]LogContentBrowser: Attempting asset rename: NewFolder -> Sounds
+[2022.03.28-15.09.39:790][347]LogContentBrowser: End creating deferred item NewFolder
+[2022.03.28-15.09.48:767][747]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\marik\Downloads\360329__inspectorj__camera-shutter-fast-a.wav)
+[2022.03.28-15.09.50:771][753]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave 360329__inspectorj__camera-shutter-fast-a...
+[2022.03.28-15.09.50:771][753]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/ThirdPersonBP/Sounds/360329__inspectorj__camera-shutter-fast-a.360329__inspectorj__camera-shutter-fast-a will be modified from 40 to 40.
+[2022.03.28-15.09.50:797][753]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 320128 while cooking SoundWave /Game/ThirdPersonBP/Sounds/360329__inspectorj__camera-shutter-fast-a.360329__inspectorj__camera-shutter-fast-a.
+[2022.03.28-15.09.59:045][736]LogContentBrowser: Attempting asset rename: 360329__inspectorj__camera-shutter-fast-a -> Camera_Sound
+[2022.03.28-15.09.59:082][736]LogSavePackage: Moving '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Saved/Camera_Sound0B7286D243840B85E911878FF09CB393.tmp' to '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Content/ThirdPersonBP/Sounds/Camera_Sound.uasset'
+[2022.03.28-15.09.59:150][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.03.28-15.09.59:180][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.03.28-15.09.59:202][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.03.28-15.09.59:234][736]AssetCheck: New page: Asset Save: Camera_Sound
+[2022.03.28-15.09.59:234][736]LogContentValidation: Display: Validating SoundWave /Game/ThirdPersonBP/Sounds/Camera_Sound.Camera_Sound
+[2022.03.28-15.10.11:834][ 44]BlueprintLog: New page: Compile PictureSpot1_BP
+[2022.03.28-15.10.11:870][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.03.28-15.10.12:293][ 83]LogSavePackage: Moving '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Saved/PictureSpot1_BPFAB2DB3D418A2B2A0304C7BBF9906FC6.tmp' to '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Content/ThirdPersonBP/Blueprints/PictureSpot1_BP.uasset'
+[2022.03.28-15.10.12:304][ 83]AssetCheck: New page: Asset Save: PictureSpot1_BP
+[2022.03.28-15.10.12:304][ 83]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/PictureSpot1_BP.PictureSpot1_BP
+[2022.03.28-15.11.05:048][839]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.03.28-15.11.05:055][839]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.03.28-15.11.05:064][839]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.03.28-15.11.07:737][157]LogContentBrowser: Attempting asset rename: NewBlueprint -> Blocker
+[2022.03.28-15.11.07:740][157]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.03.28-15.11.09:661][384]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Blocker.Blocker
+[2022.03.28-15.11.39:504][722]BlueprintLog: New page: Compile Blocker
+[2022.03.28-15.11.39:561][722]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2022.03.28-15.12.34:061][335]BlueprintLog: New page: Compile Blocker
+[2022.03.28-15.12.34:108][335]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2022.03.28-15.12.34:718][397]LogSavePackage: Moving '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Saved/Blocker1D83D65C497EAF1359CEABA164B75919.tmp' to '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Content/ThirdPersonBP/Blueprints/Blocker.uasset'
+[2022.03.28-15.12.34:731][397]AssetCheck: New page: Asset Save: Blocker
+[2022.03.28-15.12.34:731][397]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Blocker.Blocker
