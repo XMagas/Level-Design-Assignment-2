@@ -1176,3 +1176,1784 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.28-15.15.37:655][519]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.03.28-15.15.37:659][519]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
 [2022.03.28-15.15.37:692][520]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.03.28-15.16.14:223][479]LogSavePackage: Moving '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Saved/BlockerBB1040BD4E91DFCAF159B1A8C629CFBB.tmp' to '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Content/ThirdPersonBP/Blueprints/Blocker.uasset'
+[2022.03.28-15.16.14:240][479]AssetCheck: New page: Asset Save: Blocker
+[2022.03.28-15.16.14:240][479]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Blocker.Blocker
+[2022.03.28-15.16.38:738][202]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.28-15.16.38:744][202]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.03.28-15.16.38:745][202]LogPlayLevel: [PlayLevel] Compiling PictureSpot1_BP before play...
+[2022.03.28-15.16.38:804][202]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2022.03.28-15.16.38:809][202]LogPlayLevel: PlayLevel: Blueprint regeneration took 64 ms (1 blueprints)
+[2022.03.28-15.16.38:809][202]PIE: New page: PIE session: Marika (28 mars 2022 19:16:38)
+[2022.03.28-15.16.38:809][202]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.16.38:820][202]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012033s)
+[2022.03.28-15.16.38:822][202]LogAIModule: Creating AISystem for world Marika
+[2022.03.28-15.16.38:822][202]LogPlayLevel: PIE: World Init took: (0.001451s)
+[2022.03.28-15.16.38:822][202]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Marika.Marika to /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika (0.013683s)
+[2022.03.28-15.16.38:856][202]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2022.03.28-15.16.38:856][202]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.03.28-15.16.38:856][202]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.28-15.16.38:856][202]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.28-15.16.38:856][202]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.28-15.16.38:856][202]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.28-15.16.38:856][202]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.28-15.16.38:856][202]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.28-15.16.38:856][202]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.28-15.16.38:856][202]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.28-15.16.38:857][202]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.28-15.16.38:857][202]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.28-15.16.38:857][202]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.28-15.16.38:857][202]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.28-15.16.38:859][202]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.28-15.16.38:859][202]LogAudioMixer: Display: 1: FrontRight
+[2022.03.28-15.16.38:865][202]LogAudioMixer: Display: Using Audio Device Hörlurar på headset (2- CORSAIR HS70 Pro Wireless Gaming Headset)
+[2022.03.28-15.16.38:865][202]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.28-15.16.38:865][202]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.28-15.16.38:865][202]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.28-15.16.38:866][202]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.28-15.16.38:866][202]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.28-15.16.38:866][202]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.28-15.16.38:867][202]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.28-15.16.38:867][202]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.28-15.16.38:867][202]LogInit: FAudioDevice initialized.
+[2022.03.28-15.16.38:867][202]LogAudio: Display: Audio Device (ID: 4) registered with world 'Marika'.
+[2022.03.28-15.16.38:882][202]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.28-15.16.38:884][202]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika up for play (max tick rate 0) at 2022.03.28-17.16.38
+[2022.03.28-15.16.38:884][202]LogWorld: Bringing up level for play took: 0.002114
+[2022.03.28-15.16.38:885][202]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2022.03.28-15.16.38:887][202]PIE: Server logged in
+[2022.03.28-15.16.38:889][202]PIE: Play in editor total start time 0,146 seconds.
+[2022.03.28-15.16.46:467][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.16.46:467][998]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.16.46:468][998]LogWorld: UWorld::CleanupWorld for Marika, bSessionEnded=true, bCleanupResources=true
+[2022.03.28-15.16.46:468][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.16.46:479][998]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.28-15.16.46:489][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.16.46:511][998]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.28-15.16.46:512][998]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.16.46:512][998]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.16.46:514][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.16.46:517][998]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.03.28-15.16.46:569][999]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.03.28-15.16.53:439][583]BlueprintLog: New page: Compile PictureSpot1_BP
+[2022.03.28-15.16.53:489][583]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2022.03.28-15.16.53:993][621]LogSavePackage: Moving '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Saved/PictureSpot1_BP523468554C370941EA47F9A57F71DE80.tmp' to '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Content/ThirdPersonBP/Blueprints/PictureSpot1_BP.uasset'
+[2022.03.28-15.16.54:005][621]AssetCheck: New page: Asset Save: PictureSpot1_BP
+[2022.03.28-15.16.54:005][621]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/PictureSpot1_BP.PictureSpot1_BP
+[2022.03.28-15.17.02:107][341]BlueprintLog: New page: Compile PictureSpot1_BP
+[2022.03.28-15.17.02:159][341]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2022.03.28-15.17.02:597][369]LogSavePackage: Moving '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Saved/PictureSpot1_BP26770E014ABDE878E064A6B098454052.tmp' to '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Content/ThirdPersonBP/Blueprints/PictureSpot1_BP.uasset'
+[2022.03.28-15.17.02:610][369]AssetCheck: New page: Asset Save: PictureSpot1_BP
+[2022.03.28-15.17.02:610][369]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/PictureSpot1_BP.PictureSpot1_BP
+[2022.03.28-15.17.03:395][436]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.28-15.17.03:402][436]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.28-15.17.03:402][436]PIE: New page: PIE session: Marika (28 mars 2022 19:17:03)
+[2022.03.28-15.17.03:402][436]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.17.03:409][436]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006890s)
+[2022.03.28-15.17.03:410][436]LogAIModule: Creating AISystem for world Marika
+[2022.03.28-15.17.03:410][436]LogPlayLevel: PIE: World Init took: (0.001032s)
+[2022.03.28-15.17.03:410][436]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Marika.Marika to /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika (0.008065s)
+[2022.03.28-15.17.03:440][436]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2022.03.28-15.17.03:441][436]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.03.28-15.17.03:442][436]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.28-15.17.03:442][436]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.28-15.17.03:442][436]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.28-15.17.03:442][436]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.28-15.17.03:442][436]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.28-15.17.03:442][436]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.28-15.17.03:442][436]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.28-15.17.03:442][436]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.28-15.17.03:442][436]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.28-15.17.03:442][436]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.28-15.17.03:442][436]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.28-15.17.03:442][436]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.28-15.17.03:444][436]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.28-15.17.03:445][436]LogAudioMixer: Display: 1: FrontRight
+[2022.03.28-15.17.03:450][436]LogAudioMixer: Display: Using Audio Device Hörlurar på headset (2- CORSAIR HS70 Pro Wireless Gaming Headset)
+[2022.03.28-15.17.03:450][436]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.28-15.17.03:450][436]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.28-15.17.03:450][436]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.28-15.17.03:450][436]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.28-15.17.03:450][436]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.28-15.17.03:450][436]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.28-15.17.03:451][436]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.28-15.17.03:451][436]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.28-15.17.03:451][436]LogInit: FAudioDevice initialized.
+[2022.03.28-15.17.03:451][436]LogAudio: Display: Audio Device (ID: 5) registered with world 'Marika'.
+[2022.03.28-15.17.03:464][436]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.28-15.17.03:466][436]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika up for play (max tick rate 0) at 2022.03.28-17.17.03
+[2022.03.28-15.17.03:466][436]LogWorld: Bringing up level for play took: 0.001521
+[2022.03.28-15.17.03:466][436]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2022.03.28-15.17.03:468][436]PIE: Server logged in
+[2022.03.28-15.17.03:470][436]PIE: Play in editor total start time 0,07 seconds.
+[2022.03.28-15.17.11:688][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.17.11:688][298]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.17.11:688][298]LogWorld: UWorld::CleanupWorld for Marika, bSessionEnded=true, bCleanupResources=true
+[2022.03.28-15.17.11:688][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.17.11:695][298]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.28-15.17.11:703][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.17.11:730][298]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.28-15.17.11:730][298]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.17.11:731][298]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.17.11:732][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.17.11:735][298]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.03.28-15.17.11:790][299]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.03.28-15.17.34:959][778]LogEditorViewport: Clicking on Actor (LMB): Blocker_C (Blocker)
+[2022.03.28-15.17.48:329][159]LogActorFactory: Actor Factory created Cube
+[2022.03.28-15.17.49:963][337]LogActorFactory: Actor Factory created Cube
+[2022.03.28-15.17.59:177][412]LogEditorViewport: Clicking on Actor (LMB): Blocker_C (Blocker)
+[2022.03.28-15.21.40:418][488]BlueprintLog: New page: Compile Blocker
+[2022.03.28-15.21.40:473][488]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2022.03.28-15.21.41:053][534]LogSavePackage: Moving '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Saved/BlockerF92BF290454C40153751B7A316F719FD.tmp' to '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Content/ThirdPersonBP/Blueprints/Blocker.uasset'
+[2022.03.28-15.21.41:070][534]AssetCheck: New page: Asset Save: Blocker
+[2022.03.28-15.21.41:070][534]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Blocker.Blocker
+[2022.03.28-15.23.45:315][498]BlueprintLog: New page: Compile Blocker
+[2022.03.28-15.23.45:372][498]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2022.03.28-15.23.46:293][588]LogSavePackage: Moving '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Saved/Blocker42E7999542118FE88D82B2B94E739938.tmp' to '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Content/ThirdPersonBP/Blueprints/Blocker.uasset'
+[2022.03.28-15.23.46:309][588]AssetCheck: New page: Asset Save: Blocker
+[2022.03.28-15.23.46:309][588]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Blocker.Blocker
+[2022.03.28-15.23.57:491][779]BlueprintLog: New page: Compile Blocker
+[2022.03.28-15.23.57:542][779]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.03.28-15.23.58:172][838]LogSavePackage: Moving '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Saved/Blocker29BE99F744529959955445A80C91301F.tmp' to '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Content/ThirdPersonBP/Blueprints/Blocker.uasset'
+[2022.03.28-15.23.58:187][838]AssetCheck: New page: Asset Save: Blocker
+[2022.03.28-15.23.58:187][838]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Blocker.Blocker
+[2022.03.28-15.24.05:204][586]LogSlate: Window 'Blocker' being destroyed
+[2022.03.28-15.24.05:210][586]LogSlate: Window 'Blocker' being destroyed
+[2022.03.28-15.24.05:213][586]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.03.28-15.24.05:213][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.24.05:224][586]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.03.28-15.24.05:224][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.24.05:261][586]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.03.28-15.24.05:261][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.24.05:309][586]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.03.28-15.24.05:309][586]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.03.28-15.24.05:309][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.24.05:352][586]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.03.28-15.24.05:352][586]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.03.28-15.24.05:352][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.24.17:683][400]LogEditorViewport: Clicking on Actor (LMB): Blocker_C (Blocker)
+[2022.03.28-15.24.23:271][ 64]Cmd: TRANSACTION UNDO
+[2022.03.28-15.24.23:271][ 64]LogEditorTransaction: Undo Move Actors
+[2022.03.28-15.24.36:849][590]LogEditorViewport: Clicking on Actor (LMB): Blocker_C (Blocker)
+[2022.03.28-15.24.43:194][337]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.28-15.24.43:201][337]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.28-15.24.43:201][337]PIE: New page: PIE session: Marika (28 mars 2022 19:24:43)
+[2022.03.28-15.24.43:226][337]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.24.43:235][337]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008780s)
+[2022.03.28-15.24.43:236][337]LogAIModule: Creating AISystem for world Marika
+[2022.03.28-15.24.43:236][337]LogPlayLevel: PIE: World Init took: (0.001191s)
+[2022.03.28-15.24.43:236][337]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Marika.Marika to /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika (0.010192s)
+[2022.03.28-15.24.43:300][337]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2022.03.28-15.24.43:311][337]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.03.28-15.24.43:311][337]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.28-15.24.43:311][337]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.28-15.24.43:311][337]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.28-15.24.43:311][337]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.28-15.24.43:311][337]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.28-15.24.43:311][337]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.28-15.24.43:311][337]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.28-15.24.43:311][337]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.28-15.24.43:312][337]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.28-15.24.43:312][337]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.28-15.24.43:312][337]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.28-15.24.43:312][337]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.28-15.24.43:316][337]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.28-15.24.43:316][337]LogAudioMixer: Display: 1: FrontRight
+[2022.03.28-15.24.43:322][337]LogAudioMixer: Display: Using Audio Device Hörlurar på headset (2- CORSAIR HS70 Pro Wireless Gaming Headset)
+[2022.03.28-15.24.43:322][337]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.28-15.24.43:322][337]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.28-15.24.43:322][337]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.28-15.24.43:322][337]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.28-15.24.43:322][337]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.28-15.24.43:322][337]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.28-15.24.43:324][337]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.28-15.24.43:324][337]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.28-15.24.43:324][337]LogInit: FAudioDevice initialized.
+[2022.03.28-15.24.43:324][337]LogAudio: Display: Audio Device (ID: 6) registered with world 'Marika'.
+[2022.03.28-15.24.43:335][337]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.28-15.24.43:337][337]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika up for play (max tick rate 0) at 2022.03.28-17.24.43
+[2022.03.28-15.24.43:337][337]LogWorld: Bringing up level for play took: 0.001497
+[2022.03.28-15.24.43:337][337]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2022.03.28-15.24.43:340][337]PIE: Server logged in
+[2022.03.28-15.24.43:340][337]PIE: Play in editor total start time 0,142 seconds.
+[2022.03.28-15.24.50:279][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.24.50:279][162]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.24.50:279][162]LogWorld: UWorld::CleanupWorld for Marika, bSessionEnded=true, bCleanupResources=true
+[2022.03.28-15.24.50:279][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.24.50:287][162]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.28-15.24.50:295][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.24.50:312][162]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.28-15.24.50:315][162]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.24.50:316][162]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.24.50:318][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.24.50:349][162]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2022.03.28-15.24.50:380][163]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.03.28-15.24.52:001][347]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.28-15.24.52:007][347]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.28-15.24.52:007][347]PIE: New page: PIE session: Marika (28 mars 2022 19:24:52)
+[2022.03.28-15.24.52:036][347]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.24.52:043][347]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007583s)
+[2022.03.28-15.24.52:044][347]LogAIModule: Creating AISystem for world Marika
+[2022.03.28-15.24.52:044][347]LogPlayLevel: PIE: World Init took: (0.001091s)
+[2022.03.28-15.24.52:044][347]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Marika.Marika to /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika (0.008872s)
+[2022.03.28-15.24.52:058][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.03.28-15.24.52:060][347]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.03.28-15.24.52:060][347]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.28-15.24.52:060][347]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.28-15.24.52:060][347]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.28-15.24.52:060][347]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.28-15.24.52:060][347]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.28-15.24.52:060][347]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.28-15.24.52:060][347]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.28-15.24.52:060][347]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.28-15.24.52:061][347]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.28-15.24.52:061][347]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.28-15.24.52:061][347]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.28-15.24.52:061][347]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.28-15.24.52:063][347]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.28-15.24.52:063][347]LogAudioMixer: Display: 1: FrontRight
+[2022.03.28-15.24.52:068][347]LogAudioMixer: Display: Using Audio Device Hörlurar på headset (2- CORSAIR HS70 Pro Wireless Gaming Headset)
+[2022.03.28-15.24.52:068][347]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.28-15.24.52:068][347]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.28-15.24.52:068][347]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.28-15.24.52:068][347]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.28-15.24.52:068][347]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.28-15.24.52:068][347]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.28-15.24.52:069][347]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.28-15.24.52:069][347]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.28-15.24.52:069][347]LogInit: FAudioDevice initialized.
+[2022.03.28-15.24.52:069][347]LogAudio: Display: Audio Device (ID: 7) registered with world 'Marika'.
+[2022.03.28-15.24.52:078][347]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.28-15.24.52:080][347]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika up for play (max tick rate 0) at 2022.03.28-17.24.52
+[2022.03.28-15.24.52:081][347]LogWorld: Bringing up level for play took: 0.001824
+[2022.03.28-15.24.52:081][347]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2022.03.28-15.24.52:083][347]PIE: Server logged in
+[2022.03.28-15.24.52:084][347]PIE: Play in editor total start time 0,077 seconds.
+[2022.03.28-15.24.57:298][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.24.57:298][964]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.24.57:298][964]LogWorld: UWorld::CleanupWorld for Marika, bSessionEnded=true, bCleanupResources=true
+[2022.03.28-15.24.57:299][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.24.57:307][964]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.28-15.24.57:313][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.24.57:324][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.24.57:324][964]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.24.57:326][964]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.24.57:330][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.03.28-15.24.57:392][966]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.03.28-15.25.05:387][546]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Blocker.Blocker
+[2022.03.28-15.25.24:556][409]BlueprintLog: New page: Compile Blocker
+[2022.03.28-15.25.24:591][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.03.28-15.25.25:106][452]LogSavePackage: Moving '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Saved/Blocker97A2774D4D867DAEE84BE4BE983608B0.tmp' to '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Content/ThirdPersonBP/Blueprints/Blocker.uasset'
+[2022.03.28-15.25.25:118][452]AssetCheck: New page: Asset Save: Blocker
+[2022.03.28-15.25.25:118][452]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Blocker.Blocker
+[2022.03.28-15.25.26:735][619]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.28-15.25.26:742][619]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.28-15.25.26:742][619]PIE: New page: PIE session: Marika (28 mars 2022 19:25:26)
+[2022.03.28-15.25.26:765][619]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.25.26:773][619]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007565s)
+[2022.03.28-15.25.26:774][619]LogAIModule: Creating AISystem for world Marika
+[2022.03.28-15.25.26:774][619]LogPlayLevel: PIE: World Init took: (0.000894s)
+[2022.03.28-15.25.26:774][619]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Marika.Marika to /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika (0.008669s)
+[2022.03.28-15.25.26:792][619]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.03.28-15.25.26:794][619]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.03.28-15.25.26:794][619]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.28-15.25.26:794][619]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.28-15.25.26:794][619]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.28-15.25.26:794][619]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.28-15.25.26:794][619]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.28-15.25.26:794][619]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.28-15.25.26:794][619]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.28-15.25.26:794][619]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.28-15.25.26:795][619]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.28-15.25.26:795][619]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.28-15.25.26:795][619]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.28-15.25.26:795][619]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.28-15.25.26:797][619]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.28-15.25.26:797][619]LogAudioMixer: Display: 1: FrontRight
+[2022.03.28-15.25.26:802][619]LogAudioMixer: Display: Using Audio Device Hörlurar på headset (2- CORSAIR HS70 Pro Wireless Gaming Headset)
+[2022.03.28-15.25.26:802][619]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.28-15.25.26:802][619]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.28-15.25.26:803][619]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.28-15.25.26:803][619]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.28-15.25.26:803][619]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.28-15.25.26:803][619]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.28-15.25.26:804][619]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.28-15.25.26:804][619]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.28-15.25.26:804][619]LogInit: FAudioDevice initialized.
+[2022.03.28-15.25.26:804][619]LogAudio: Display: Audio Device (ID: 8) registered with world 'Marika'.
+[2022.03.28-15.25.26:815][619]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.28-15.25.26:816][619]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika up for play (max tick rate 0) at 2022.03.28-17.25.26
+[2022.03.28-15.25.26:817][619]LogWorld: Bringing up level for play took: 0.001446
+[2022.03.28-15.25.26:817][619]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2022.03.28-15.25.26:819][619]PIE: Server logged in
+[2022.03.28-15.25.26:822][619]PIE: Play in editor total start time 0,082 seconds.
+[2022.03.28-15.25.31:918][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.25.31:918][179]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.25.31:918][179]LogWorld: UWorld::CleanupWorld for Marika, bSessionEnded=true, bCleanupResources=true
+[2022.03.28-15.25.31:918][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.25.31:929][179]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.28-15.25.31:936][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.25.31:949][179]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.28-15.25.31:950][179]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.25.31:951][179]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.25.31:952][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.25.31:955][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.03.28-15.25.31:998][180]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.03.28-15.25.35:874][599]LogEditorViewport: Clicking on Actor (LMB): Blocker_C (Blocker)
+[2022.03.28-15.25.41:571][194]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.28-15.25.41:577][194]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.28-15.25.41:577][194]PIE: New page: PIE session: Marika (28 mars 2022 19:25:41)
+[2022.03.28-15.25.41:616][194]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.25.41:624][194]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008279s)
+[2022.03.28-15.25.41:625][194]LogAIModule: Creating AISystem for world Marika
+[2022.03.28-15.25.41:625][194]LogPlayLevel: PIE: World Init took: (0.001114s)
+[2022.03.28-15.25.41:625][194]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Marika.Marika to /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika (0.009635s)
+[2022.03.28-15.25.41:642][194]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.03.28-15.25.41:645][194]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.03.28-15.25.41:645][194]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.28-15.25.41:645][194]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.28-15.25.41:645][194]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.28-15.25.41:645][194]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.28-15.25.41:645][194]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.28-15.25.41:645][194]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.28-15.25.41:645][194]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.28-15.25.41:645][194]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.28-15.25.41:646][194]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.28-15.25.41:646][194]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.28-15.25.41:646][194]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.28-15.25.41:646][194]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.28-15.25.41:648][194]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.28-15.25.41:648][194]LogAudioMixer: Display: 1: FrontRight
+[2022.03.28-15.25.41:654][194]LogAudioMixer: Display: Using Audio Device Hörlurar på headset (2- CORSAIR HS70 Pro Wireless Gaming Headset)
+[2022.03.28-15.25.41:654][194]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.28-15.25.41:654][194]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.28-15.25.41:654][194]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.28-15.25.41:654][194]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.28-15.25.41:654][194]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.28-15.25.41:654][194]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.28-15.25.41:655][194]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.28-15.25.41:655][194]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.28-15.25.41:655][194]LogInit: FAudioDevice initialized.
+[2022.03.28-15.25.41:655][194]LogAudio: Display: Audio Device (ID: 9) registered with world 'Marika'.
+[2022.03.28-15.25.41:674][194]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.28-15.25.41:675][194]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika up for play (max tick rate 0) at 2022.03.28-17.25.41
+[2022.03.28-15.25.41:676][194]LogWorld: Bringing up level for play took: 0.001563
+[2022.03.28-15.25.41:676][194]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2022.03.28-15.25.41:678][194]PIE: Server logged in
+[2022.03.28-15.25.41:680][194]PIE: Play in editor total start time 0,104 seconds.
+[2022.03.28-15.25.49:248][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.25.49:248][ 26]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.25.49:248][ 26]LogWorld: UWorld::CleanupWorld for Marika, bSessionEnded=true, bCleanupResources=true
+[2022.03.28-15.25.49:249][ 26]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.25.49:258][ 26]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.28-15.25.49:265][ 26]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.25.49:278][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.25.49:278][ 26]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.25.49:279][ 26]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.25.49:282][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.03.28-15.25.49:325][ 27]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.03.28-15.26.02:958][362]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.28-15.26.02:965][362]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.03.28-15.26.02:966][362]LogPlayLevel: [PlayLevel] Compiling Blocker before play...
+[2022.03.28-15.26.03:010][362]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.03.28-15.26.03:014][362]LogPlayLevel: PlayLevel: Blueprint regeneration took 47 ms (1 blueprints)
+[2022.03.28-15.26.03:014][362]PIE: New page: PIE session: Marika (28 mars 2022 19:26:03)
+[2022.03.28-15.26.03:014][362]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.26.03:021][362]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008001s)
+[2022.03.28-15.26.03:022][362]LogAIModule: Creating AISystem for world Marika
+[2022.03.28-15.26.03:023][362]LogPlayLevel: PIE: World Init took: (0.001352s)
+[2022.03.28-15.26.03:023][362]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Marika.Marika to /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika (0.009555s)
+[2022.03.28-15.26.03:043][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.03.28-15.26.03:043][362]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.03.28-15.26.03:043][362]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.28-15.26.03:043][362]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.28-15.26.03:043][362]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.28-15.26.03:043][362]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.28-15.26.03:043][362]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.28-15.26.03:043][362]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.28-15.26.03:043][362]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.28-15.26.03:043][362]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.28-15.26.03:043][362]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.28-15.26.03:043][362]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.28-15.26.03:043][362]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.28-15.26.03:043][362]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.28-15.26.03:046][362]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.28-15.26.03:046][362]LogAudioMixer: Display: 1: FrontRight
+[2022.03.28-15.26.03:052][362]LogAudioMixer: Display: Using Audio Device Hörlurar på headset (2- CORSAIR HS70 Pro Wireless Gaming Headset)
+[2022.03.28-15.26.03:052][362]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.28-15.26.03:052][362]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.28-15.26.03:052][362]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.28-15.26.03:054][362]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.28-15.26.03:054][362]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.28-15.26.03:054][362]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.28-15.26.03:054][362]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.28-15.26.03:054][362]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.28-15.26.03:054][362]LogInit: FAudioDevice initialized.
+[2022.03.28-15.26.03:054][362]LogAudio: Display: Audio Device (ID: 10) registered with world 'Marika'.
+[2022.03.28-15.26.03:071][362]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.28-15.26.03:073][362]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika up for play (max tick rate 0) at 2022.03.28-17.26.03
+[2022.03.28-15.26.03:074][362]LogWorld: Bringing up level for play took: 0.001673
+[2022.03.28-15.26.03:074][362]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2022.03.28-15.26.03:076][362]PIE: Server logged in
+[2022.03.28-15.26.03:079][362]PIE: Play in editor total start time 0,114 seconds.
+[2022.03.28-15.26.11:099][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.26.11:099][129]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.26.11:099][129]LogWorld: UWorld::CleanupWorld for Marika, bSessionEnded=true, bCleanupResources=true
+[2022.03.28-15.26.11:099][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.26.11:110][129]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.28-15.26.11:118][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.26.11:131][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.26.11:131][129]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.26.11:132][129]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.26.11:136][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.03.28-15.26.11:181][130]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.03.28-15.27.16:890][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.03.28-15.27.16:917][211]LogSavePackage: Moving '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Saved/Marika_Auto258B78551473B284D57FA8DA9814264F5.tmp' to '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Saved/Autosaves/Game/ThirdPersonBP/Maps/Marika_Auto2.umap'
+[2022.03.28-15.27.16:920][211]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/Marika' took 0.046
+[2022.03.28-15.27.16:920][211]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.046
+[2022.03.28-15.27.16:921][211]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Blocker] ([2] browsable assets)...
+[2022.03.28-15.27.16:942][211]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/Blocker.Blocker]
+[2022.03.28-15.27.16:942][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Blocker]
+[2022.03.28-15.27.16:958][211]LogSavePackage: Moving '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Saved/Blocker_Auto28A85B974484785AA111854B04BD41020.tmp' to '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Blocker_Auto2.uasset'
+[2022.03.28-15.27.16:959][211]LogFileHelpers: Auto-saving content packages took 0.039
+[2022.03.28-15.35.03:184][ 38]BlueprintLog: New page: Compile Blocker
+[2022.03.28-15.35.03:218][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.03.28-15.35.04:195][140]LogSavePackage: Moving '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Saved/BlockerB6261BAD43440E12B968A4A723502563.tmp' to '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Content/ThirdPersonBP/Blueprints/Blocker.uasset'
+[2022.03.28-15.35.04:208][140]AssetCheck: New page: Asset Save: Blocker
+[2022.03.28-15.35.04:208][140]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Blocker.Blocker
+[2022.03.28-15.35.05:684][297]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.28-15.35.05:691][297]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.28-15.35.05:691][297]PIE: New page: PIE session: Marika (28 mars 2022 19:35:05)
+[2022.03.28-15.35.05:691][297]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.35.05:699][297]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007453s)
+[2022.03.28-15.35.05:700][297]LogAIModule: Creating AISystem for world Marika
+[2022.03.28-15.35.05:701][297]LogPlayLevel: PIE: World Init took: (0.001056s)
+[2022.03.28-15.35.05:701][297]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Marika.Marika to /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika (0.008639s)
+[2022.03.28-15.35.05:718][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.03.28-15.35.05:718][297]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.03.28-15.35.05:718][297]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.28-15.35.05:718][297]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.28-15.35.05:718][297]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.28-15.35.05:718][297]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.28-15.35.05:718][297]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.28-15.35.05:718][297]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.28-15.35.05:718][297]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.28-15.35.05:718][297]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.28-15.35.05:719][297]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.28-15.35.05:719][297]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.28-15.35.05:719][297]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.28-15.35.05:719][297]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.28-15.35.05:721][297]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.28-15.35.05:721][297]LogAudioMixer: Display: 1: FrontRight
+[2022.03.28-15.35.05:726][297]LogAudioMixer: Display: Using Audio Device Hörlurar på headset (2- CORSAIR HS70 Pro Wireless Gaming Headset)
+[2022.03.28-15.35.05:726][297]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.28-15.35.05:726][297]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.28-15.35.05:727][297]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.28-15.35.05:727][297]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.28-15.35.05:727][297]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.28-15.35.05:727][297]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.28-15.35.05:728][297]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.28-15.35.05:728][297]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.28-15.35.05:728][297]LogInit: FAudioDevice initialized.
+[2022.03.28-15.35.05:728][297]LogAudio: Display: Audio Device (ID: 11) registered with world 'Marika'.
+[2022.03.28-15.35.05:739][297]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.28-15.35.05:740][297]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika up for play (max tick rate 0) at 2022.03.28-17.35.05
+[2022.03.28-15.35.05:741][297]LogWorld: Bringing up level for play took: 0.001190
+[2022.03.28-15.35.05:741][297]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2022.03.28-15.35.05:743][297]PIE: Server logged in
+[2022.03.28-15.35.05:744][297]PIE: Play in editor total start time 0,054 seconds.
+[2022.03.28-15.35.16:227][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.35.16:227][398]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.35.16:227][398]LogWorld: UWorld::CleanupWorld for Marika, bSessionEnded=true, bCleanupResources=true
+[2022.03.28-15.35.16:228][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.35.16:243][398]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.28-15.35.16:251][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.35.16:263][398]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.28-15.35.16:263][398]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.35.16:264][398]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.35.16:265][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.35.16:267][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.03.28-15.35.16:309][399]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.03.28-15.35.19:064][708]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.28-15.35.19:071][708]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.28-15.35.19:071][708]PIE: New page: PIE session: Marika (28 mars 2022 19:35:19)
+[2022.03.28-15.35.19:105][708]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.35.19:114][708]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008738s)
+[2022.03.28-15.35.19:115][708]LogAIModule: Creating AISystem for world Marika
+[2022.03.28-15.35.19:115][708]LogPlayLevel: PIE: World Init took: (0.001137s)
+[2022.03.28-15.35.19:115][708]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Marika.Marika to /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika (0.010155s)
+[2022.03.28-15.35.19:131][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.03.28-15.35.19:133][708]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.03.28-15.35.19:133][708]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.28-15.35.19:133][708]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.28-15.35.19:133][708]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.28-15.35.19:133][708]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.28-15.35.19:133][708]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.28-15.35.19:133][708]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.28-15.35.19:133][708]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.28-15.35.19:133][708]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.28-15.35.19:133][708]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.28-15.35.19:133][708]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.28-15.35.19:133][708]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.28-15.35.19:133][708]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.28-15.35.19:136][708]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.28-15.35.19:136][708]LogAudioMixer: Display: 1: FrontRight
+[2022.03.28-15.35.19:141][708]LogAudioMixer: Display: Using Audio Device Hörlurar på headset (2- CORSAIR HS70 Pro Wireless Gaming Headset)
+[2022.03.28-15.35.19:141][708]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.28-15.35.19:141][708]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.28-15.35.19:141][708]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.28-15.35.19:141][708]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.28-15.35.19:141][708]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.28-15.35.19:141][708]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.28-15.35.19:142][708]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.28-15.35.19:142][708]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.28-15.35.19:142][708]LogInit: FAudioDevice initialized.
+[2022.03.28-15.35.19:142][708]LogAudio: Display: Audio Device (ID: 12) registered with world 'Marika'.
+[2022.03.28-15.35.19:154][708]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.28-15.35.19:155][708]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika up for play (max tick rate 0) at 2022.03.28-17.35.19
+[2022.03.28-15.35.19:156][708]LogWorld: Bringing up level for play took: 0.001255
+[2022.03.28-15.35.19:156][708]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2022.03.28-15.35.19:158][708]PIE: Server logged in
+[2022.03.28-15.35.19:160][708]PIE: Play in editor total start time 0,09 seconds.
+[2022.03.28-15.35.23:817][237]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.35.23:817][237]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.35.23:817][237]LogWorld: UWorld::CleanupWorld for Marika, bSessionEnded=true, bCleanupResources=true
+[2022.03.28-15.35.23:817][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.35.23:831][237]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.28-15.35.23:837][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.35.23:852][237]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.35.23:852][237]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.35.23:853][237]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.35.23:857][237]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.03.28-15.35.23:897][238]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.03.28-15.35.41:649][258]BlueprintLog: New page: Compile Blocker
+[2022.03.28-15.35.41:682][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.03.28-15.35.42:125][297]LogSavePackage: Moving '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Saved/Blocker8B9543464790B4BF09CB7481FDB4E6F9.tmp' to '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Content/ThirdPersonBP/Blueprints/Blocker.uasset'
+[2022.03.28-15.35.42:140][297]AssetCheck: New page: Asset Save: Blocker
+[2022.03.28-15.35.42:140][297]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Blocker.Blocker
+[2022.03.28-15.35.42:612][342]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.28-15.35.42:619][342]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.28-15.35.42:619][342]PIE: New page: PIE session: Marika (28 mars 2022 19:35:42)
+[2022.03.28-15.35.42:656][342]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.35.42:663][342]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007534s)
+[2022.03.28-15.35.42:664][342]LogAIModule: Creating AISystem for world Marika
+[2022.03.28-15.35.42:664][342]LogPlayLevel: PIE: World Init took: (0.000920s)
+[2022.03.28-15.35.42:664][342]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Marika.Marika to /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika (0.008686s)
+[2022.03.28-15.35.42:681][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.03.28-15.35.42:682][342]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.03.28-15.35.42:682][342]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.28-15.35.42:682][342]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.28-15.35.42:682][342]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.28-15.35.42:682][342]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.28-15.35.42:682][342]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.28-15.35.42:682][342]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.28-15.35.42:682][342]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.28-15.35.42:682][342]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.28-15.35.42:683][342]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.28-15.35.42:683][342]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.28-15.35.42:683][342]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.28-15.35.42:683][342]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.28-15.35.42:685][342]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.28-15.35.42:685][342]LogAudioMixer: Display: 1: FrontRight
+[2022.03.28-15.35.42:690][342]LogAudioMixer: Display: Using Audio Device Hörlurar på headset (2- CORSAIR HS70 Pro Wireless Gaming Headset)
+[2022.03.28-15.35.42:690][342]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.28-15.35.42:691][342]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.28-15.35.42:691][342]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.28-15.35.42:691][342]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.28-15.35.42:691][342]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.28-15.35.42:691][342]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.28-15.35.42:692][342]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.28-15.35.42:692][342]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.28-15.35.42:692][342]LogInit: FAudioDevice initialized.
+[2022.03.28-15.35.42:692][342]LogAudio: Display: Audio Device (ID: 13) registered with world 'Marika'.
+[2022.03.28-15.35.42:705][342]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.28-15.35.42:707][342]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika up for play (max tick rate 0) at 2022.03.28-17.35.42
+[2022.03.28-15.35.42:707][342]LogWorld: Bringing up level for play took: 0.001746
+[2022.03.28-15.35.42:707][342]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2022.03.28-15.35.42:709][342]PIE: Server logged in
+[2022.03.28-15.35.42:711][342]PIE: Play in editor total start time 0,094 seconds.
+[2022.03.28-15.35.49:347][127]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.35.49:347][127]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.35.49:347][127]LogWorld: UWorld::CleanupWorld for Marika, bSessionEnded=true, bCleanupResources=true
+[2022.03.28-15.35.49:347][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.35.49:358][127]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.28-15.35.49:364][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.35.49:377][127]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.28-15.35.49:378][127]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.35.49:378][127]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.35.49:380][127]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.35.49:382][127]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.03.28-15.35.49:449][129]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.03.28-15.36.11:595][408]BlueprintLog: New page: Compile Blocker
+[2022.03.28-15.36.11:628][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.03.28-15.36.12:421][480]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.28-15.36.12:428][480]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.28-15.36.12:428][480]PIE: New page: PIE session: Marika (28 mars 2022 19:36:12)
+[2022.03.28-15.36.12:455][480]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.36.12:462][480]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007339s)
+[2022.03.28-15.36.12:463][480]LogAIModule: Creating AISystem for world Marika
+[2022.03.28-15.36.12:463][480]LogPlayLevel: PIE: World Init took: (0.000917s)
+[2022.03.28-15.36.12:463][480]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Marika.Marika to /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika (0.008420s)
+[2022.03.28-15.36.12:480][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.03.28-15.36.12:481][480]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.03.28-15.36.12:481][480]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.28-15.36.12:481][480]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.28-15.36.12:481][480]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.28-15.36.12:481][480]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.28-15.36.12:481][480]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.28-15.36.12:481][480]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.28-15.36.12:481][480]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.28-15.36.12:481][480]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.28-15.36.12:481][480]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.28-15.36.12:481][480]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.28-15.36.12:481][480]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.28-15.36.12:481][480]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.28-15.36.12:484][480]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.28-15.36.12:484][480]LogAudioMixer: Display: 1: FrontRight
+[2022.03.28-15.36.12:489][480]LogAudioMixer: Display: Using Audio Device Hörlurar på headset (2- CORSAIR HS70 Pro Wireless Gaming Headset)
+[2022.03.28-15.36.12:489][480]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.28-15.36.12:489][480]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.28-15.36.12:489][480]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.28-15.36.12:489][480]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.28-15.36.12:490][480]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.28-15.36.12:490][480]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.28-15.36.12:490][480]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.28-15.36.12:490][480]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.28-15.36.12:490][480]LogInit: FAudioDevice initialized.
+[2022.03.28-15.36.12:490][480]LogAudio: Display: Audio Device (ID: 14) registered with world 'Marika'.
+[2022.03.28-15.36.12:501][480]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.28-15.36.12:503][480]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika up for play (max tick rate 0) at 2022.03.28-17.36.12
+[2022.03.28-15.36.12:503][480]LogWorld: Bringing up level for play took: 0.001377
+[2022.03.28-15.36.12:503][480]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2022.03.28-15.36.12:505][480]PIE: Server logged in
+[2022.03.28-15.36.12:508][480]PIE: Play in editor total start time 0,081 seconds.
+[2022.03.28-15.36.17:228][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.36.17:228][ 12]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.36.17:228][ 12]LogWorld: UWorld::CleanupWorld for Marika, bSessionEnded=true, bCleanupResources=true
+[2022.03.28-15.36.17:228][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.36.17:246][ 12]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.28-15.36.17:254][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.36.17:266][ 12]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.28-15.36.17:266][ 12]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.36.17:267][ 12]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.36.17:269][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.36.17:271][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.03.28-15.36.17:317][ 13]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.03.28-15.36.35:995][958]LogEditorViewport: Clicking on Actor (LMB): Blocker_C (Blocker)
+[2022.03.28-15.36.37:676][140]Cmd: DELETE
+[2022.03.28-15.36.37:676][140]Cmd: ACTOR DELETE
+[2022.03.28-15.36.37:679][140]LogEditorActor: Deleted Actor: Blocker_C
+[2022.03.28-15.36.37:693][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.03.28-15.36.37:698][140]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2022.03.28-15.36.40:853][501]BlueprintLog: New page: Compile Blocker
+[2022.03.28-15.36.40:878][501]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.03.28-15.36.49:624][450]LogEditorViewport: Clicking on Actor (LMB): Blocker_C (Blocker)
+[2022.03.28-15.36.51:138][627]Cmd: DELETE
+[2022.03.28-15.36.51:138][627]Cmd: ACTOR DELETE
+[2022.03.28-15.36.51:139][627]LogEditorActor: Deleted Actor: Blocker_C
+[2022.03.28-15.36.51:156][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.03.28-15.36.51:160][627]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2022.03.28-15.37.25:982][225]BlueprintLog: New page: Compile Blocker
+[2022.03.28-15.37.25:984][225]LogBlueprint: Error: [AssetLog] C:\Users\marik\Documents\FutureGames\LevelDesign\Level-Design-Assignment-2\LD2\Content\ThirdPersonBP\Blueprints\Blocker.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2022.03.28-15.37.26:028][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.03.28-15.37.39:151][467]BlueprintLog: New page: Compile Blocker
+[2022.03.28-15.37.39:184][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.03.28-15.37.53:025][ 47]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.28-15.37.53:030][ 47]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.28-15.37.53:030][ 47]PIE: New page: PIE session: Marika (28 mars 2022 19:37:53)
+[2022.03.28-15.37.53:065][ 47]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.37.53:074][ 47]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009014s)
+[2022.03.28-15.37.53:075][ 47]LogAIModule: Creating AISystem for world Marika
+[2022.03.28-15.37.53:075][ 47]LogPlayLevel: PIE: World Init took: (0.001241s)
+[2022.03.28-15.37.53:075][ 47]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Marika.Marika to /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika (0.010481s)
+[2022.03.28-15.37.53:094][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.03.28-15.37.53:098][ 47]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.03.28-15.37.53:098][ 47]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.28-15.37.53:098][ 47]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.28-15.37.53:098][ 47]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.28-15.37.53:098][ 47]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.28-15.37.53:098][ 47]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.28-15.37.53:098][ 47]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.28-15.37.53:098][ 47]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.28-15.37.53:098][ 47]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.28-15.37.53:099][ 47]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.28-15.37.53:099][ 47]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.28-15.37.53:099][ 47]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.28-15.37.53:099][ 47]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.28-15.37.53:101][ 47]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.28-15.37.53:101][ 47]LogAudioMixer: Display: 1: FrontRight
+[2022.03.28-15.37.53:108][ 47]LogAudioMixer: Display: Using Audio Device Hörlurar på headset (2- CORSAIR HS70 Pro Wireless Gaming Headset)
+[2022.03.28-15.37.53:108][ 47]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.28-15.37.53:108][ 47]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.28-15.37.53:109][ 47]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.28-15.37.53:109][ 47]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.28-15.37.53:109][ 47]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.28-15.37.53:109][ 47]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.28-15.37.53:110][ 47]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.28-15.37.53:110][ 47]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.28-15.37.53:110][ 47]LogInit: FAudioDevice initialized.
+[2022.03.28-15.37.53:110][ 47]LogAudio: Display: Audio Device (ID: 15) registered with world 'Marika'.
+[2022.03.28-15.37.53:125][ 47]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.28-15.37.53:126][ 47]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika up for play (max tick rate 0) at 2022.03.28-17.37.53
+[2022.03.28-15.37.53:127][ 47]LogWorld: Bringing up level for play took: 0.001340
+[2022.03.28-15.37.53:127][ 47]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2022.03.28-15.37.53:129][ 47]LogOutputDevice: Warning: 
+
+Script Stack (1 frames):
+Blocker_C.ReceiveBeginPlay
+
+[2022.03.28-15.37.53:160][ 47]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.031 s
+[2022.03.28-15.37.53:160][ 47]LogOutputDevice: Error: === Handled ensure: ===
+[2022.03.28-15.37.53:160][ 47]LogOutputDevice: Error: 
+[2022.03.28-15.37.53:160][ 47]LogOutputDevice: Error: Ensure condition failed: NewObject->IsA(this->GeneratedClass) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/Blueprint.cpp] [Line: 904]
+[2022.03.28-15.37.53:160][ 47]LogOutputDevice: Error: Type mismatch: Expected Blocker_C, Found REINST_Blocker_C_177
+[2022.03.28-15.37.53:160][ 47]LogOutputDevice: Error: Stack: 
+[2022.03.28-15.37.53:160][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffd8533d517 UE4Editor-Engine.dll!UnknownFunction []
+[2022.03.28-15.37.53:160][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffd83bfef24 UE4Editor-Engine.dll!UnknownFunction []
+[2022.03.28-15.37.53:160][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffd820ff8de UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.03.28-15.37.53:160][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffd8255231a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.03.28-15.37.53:160][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffd86c65c41 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.03.28-15.37.53:160][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffd86c71770 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.03.28-15.37.53:160][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffd86c44d8d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.03.28-15.37.53:160][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffd86c44184 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.03.28-15.37.53:160][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffd869619c4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.03.28-15.37.53:160][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffd86c43ca3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.03.28-15.37.53:160][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffd838f942a UE4Editor-Engine.dll!UnknownFunction []
+[2022.03.28-15.37.53:160][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffd838c7435 UE4Editor-Engine.dll!UnknownFunction []
+[2022.03.28-15.37.53:160][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffd838d0c1f UE4Editor-Engine.dll!UnknownFunction []
+[2022.03.28-15.37.53:160][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffd84cdba95 UE4Editor-Engine.dll!UnknownFunction []
+[2022.03.28-15.37.53:160][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffd8401ca31 UE4Editor-Engine.dll!UnknownFunction []
+[2022.03.28-15.37.53:160][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffd84c7fb3e UE4Editor-Engine.dll!UnknownFunction []
+[2022.03.28-15.37.53:160][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffd8403eb09 UE4Editor-Engine.dll!UnknownFunction []
+[2022.03.28-15.37.53:160][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffd82212c45 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.03.28-15.37.53:160][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffd8223622f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.03.28-15.37.53:160][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffd8221397d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.03.28-15.37.53:160][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffd82253772 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.03.28-15.37.53:160][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffd82256d31 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.03.28-15.37.53:160][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffd822565f8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.03.28-15.37.53:160][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffd81cb0c8c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.03.28-15.37.53:160][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffd825b2ba6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.03.28-15.37.53:160][ 47]LogOutputDevice: Error: [Callstack] 0x00007ff7827387a0 UE4Editor.exe!UnknownFunction []
+[2022.03.28-15.37.53:160][ 47]LogOutputDevice: Error: [Callstack] 0x00007ff782750fcc UE4Editor.exe!UnknownFunction []
+[2022.03.28-15.37.53:160][ 47]LogOutputDevice: Error: [Callstack] 0x00007ff7827510ba UE4Editor.exe!UnknownFunction []
+[2022.03.28-15.37.53:160][ 47]LogOutputDevice: Error: [Callstack] 0x00007ff7827540dd UE4Editor.exe!UnknownFunction []
+[2022.03.28-15.37.53:160][ 47]LogOutputDevice: Error: [Callstack] 0x00007ff782765984 UE4Editor.exe!UnknownFunction []
+[2022.03.28-15.37.53:160][ 47]LogOutputDevice: Error: [Callstack] 0x00007ff78276853a UE4Editor.exe!UnknownFunction []
+[2022.03.28-15.37.53:160][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffe25e054e0 KERNEL32.DLL!UnknownFunction []
+[2022.03.28-15.37.53:160][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffe2754485b ntdll.dll!UnknownFunction []
+[2022.03.28-15.37.53:160][ 47]LogOutputDevice: Error: 
+[2022.03.28-15.37.53:162][ 47]LogStats:                SubmitErrorReport -  0.000 s
+[2022.03.28-15.37.53:902][ 47]LogStats:                    SendNewReport -  0.741 s
+[2022.03.28-15.37.53:902][ 47]LogStats:             FDebug::EnsureFailed -  0.774 s
+[2022.03.28-15.37.53:902][ 47]PIE: Server logged in
+[2022.03.28-15.37.53:905][ 47]PIE: Play in editor total start time 0,875 seconds.
+[2022.03.28-15.38.03:959][237]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.38.03:959][237]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.38.03:959][237]LogWorld: UWorld::CleanupWorld for Marika, bSessionEnded=true, bCleanupResources=true
+[2022.03.28-15.38.03:959][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.38.03:970][237]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.28-15.38.03:979][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.38.03:992][237]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.28-15.38.03:993][237]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.38.03:994][237]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.38.03:995][237]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.38.03:997][237]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.03.28-15.38.04:026][238]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.03.28-15.38.09:150][838]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.28-15.38.09:159][838]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.28-15.38.09:160][838]PIE: New page: PIE session: Marika (28 mars 2022 19:38:09)
+[2022.03.28-15.38.09:160][838]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.38.09:167][838]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007268s)
+[2022.03.28-15.38.09:168][838]LogAIModule: Creating AISystem for world Marika
+[2022.03.28-15.38.09:169][838]LogPlayLevel: PIE: World Init took: (0.002058s)
+[2022.03.28-15.38.09:169][838]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Marika.Marika to /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika (0.009484s)
+[2022.03.28-15.38.09:188][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.03.28-15.38.09:191][838]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.03.28-15.38.09:191][838]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.28-15.38.09:191][838]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.28-15.38.09:191][838]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.28-15.38.09:191][838]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.28-15.38.09:191][838]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.28-15.38.09:191][838]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.28-15.38.09:191][838]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.28-15.38.09:191][838]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.28-15.38.09:191][838]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.28-15.38.09:191][838]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.28-15.38.09:191][838]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.28-15.38.09:191][838]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.28-15.38.09:194][838]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.28-15.38.09:194][838]LogAudioMixer: Display: 1: FrontRight
+[2022.03.28-15.38.09:199][838]LogAudioMixer: Display: Using Audio Device Hörlurar på headset (2- CORSAIR HS70 Pro Wireless Gaming Headset)
+[2022.03.28-15.38.09:199][838]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.28-15.38.09:200][838]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.28-15.38.09:200][838]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.28-15.38.09:200][838]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.28-15.38.09:200][838]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.28-15.38.09:200][838]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.28-15.38.09:201][838]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.28-15.38.09:201][838]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.28-15.38.09:201][838]LogInit: FAudioDevice initialized.
+[2022.03.28-15.38.09:201][838]LogAudio: Display: Audio Device (ID: 16) registered with world 'Marika'.
+[2022.03.28-15.38.09:212][838]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.28-15.38.09:213][838]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika up for play (max tick rate 0) at 2022.03.28-17.38.09
+[2022.03.28-15.38.09:213][838]LogWorld: Bringing up level for play took: 0.001421
+[2022.03.28-15.38.09:213][838]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2022.03.28-15.38.09:215][838]PIE: Server logged in
+[2022.03.28-15.38.09:217][838]PIE: Play in editor total start time 0,062 seconds.
+[2022.03.28-15.38.13:017][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.38.13:017][283]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.38.13:017][283]LogWorld: UWorld::CleanupWorld for Marika, bSessionEnded=true, bCleanupResources=true
+[2022.03.28-15.38.13:017][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.38.13:027][283]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.28-15.38.13:034][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.38.13:047][283]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.28-15.38.13:047][283]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.38.13:048][283]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.38.13:049][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.38.13:051][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.03.28-15.38.13:111][285]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.03.28-15.39.56:375][169]BlueprintLog: New page: Compile Blocker
+[2022.03.28-15.39.56:410][169]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.03.28-15.39.58:597][370]LogSavePackage: Moving '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Saved/Blocker2FF4FC0E459B31DDE1581CA9B3931370.tmp' to '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Content/ThirdPersonBP/Blueprints/Blocker.uasset'
+[2022.03.28-15.39.58:610][370]AssetCheck: New page: Asset Save: Blocker
+[2022.03.28-15.39.58:610][370]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Blocker.Blocker
+[2022.03.28-15.39.59:429][443]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.28-15.39.59:436][443]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.28-15.39.59:436][443]PIE: New page: PIE session: Marika (28 mars 2022 19:39:59)
+[2022.03.28-15.39.59:476][443]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.39.59:485][443]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008584s)
+[2022.03.28-15.39.59:485][443]LogAIModule: Creating AISystem for world Marika
+[2022.03.28-15.39.59:486][443]LogPlayLevel: PIE: World Init took: (0.001132s)
+[2022.03.28-15.39.59:486][443]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Marika.Marika to /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika (0.009973s)
+[2022.03.28-15.39.59:504][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.03.28-15.39.59:505][443]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2022.03.28-15.39.59:505][443]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.28-15.39.59:506][443]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.28-15.39.59:506][443]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.28-15.39.59:506][443]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.28-15.39.59:506][443]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.28-15.39.59:506][443]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.28-15.39.59:506][443]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.28-15.39.59:506][443]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.28-15.39.59:506][443]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.28-15.39.59:506][443]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.28-15.39.59:506][443]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.28-15.39.59:506][443]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.28-15.39.59:509][443]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.28-15.39.59:509][443]LogAudioMixer: Display: 1: FrontRight
+[2022.03.28-15.39.59:514][443]LogAudioMixer: Display: Using Audio Device Hörlurar på headset (2- CORSAIR HS70 Pro Wireless Gaming Headset)
+[2022.03.28-15.39.59:515][443]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.28-15.39.59:515][443]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.28-15.39.59:515][443]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.28-15.39.59:515][443]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.28-15.39.59:515][443]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.28-15.39.59:515][443]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.28-15.39.59:516][443]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.28-15.39.59:516][443]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.28-15.39.59:516][443]LogInit: FAudioDevice initialized.
+[2022.03.28-15.39.59:516][443]LogAudio: Display: Audio Device (ID: 17) registered with world 'Marika'.
+[2022.03.28-15.39.59:525][443]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.28-15.39.59:526][443]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika up for play (max tick rate 0) at 2022.03.28-17.39.59
+[2022.03.28-15.39.59:527][443]LogWorld: Bringing up level for play took: 0.001288
+[2022.03.28-15.39.59:527][443]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2022.03.28-15.39.59:529][443]PIE: Server logged in
+[2022.03.28-15.39.59:531][443]PIE: Play in editor total start time 0,096 seconds.
+[2022.03.28-15.40.03:726][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.40.03:726][917]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.40.03:726][917]LogWorld: UWorld::CleanupWorld for Marika, bSessionEnded=true, bCleanupResources=true
+[2022.03.28-15.40.03:727][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.40.03:742][917]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.28-15.40.03:750][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.40.03:764][917]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.28-15.40.03:764][917]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.40.03:765][917]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.40.03:766][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.40.03:769][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.03.28-15.40.03:810][918]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2022.03.28-15.40.23:559][175]BlueprintLog: New page: Compile Blocker
+[2022.03.28-15.40.23:595][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.03.28-15.40.24:096][219]LogSavePackage: Moving '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Saved/Blocker8C0C7CAF4CA9CBA3E0F278B43BC037A2.tmp' to '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Content/ThirdPersonBP/Blueprints/Blocker.uasset'
+[2022.03.28-15.40.24:111][219]AssetCheck: New page: Asset Save: Blocker
+[2022.03.28-15.40.24:111][219]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Blocker.Blocker
+[2022.03.28-15.40.24:561][262]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.28-15.40.24:568][262]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.28-15.40.24:568][262]PIE: New page: PIE session: Marika (28 mars 2022 19:40:24)
+[2022.03.28-15.40.24:605][262]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.40.24:613][262]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007820s)
+[2022.03.28-15.40.24:614][262]LogAIModule: Creating AISystem for world Marika
+[2022.03.28-15.40.24:614][262]LogPlayLevel: PIE: World Init took: (0.001106s)
+[2022.03.28-15.40.24:614][262]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Marika.Marika to /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika (0.009099s)
+[2022.03.28-15.40.24:632][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.03.28-15.40.24:633][262]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.03.28-15.40.24:633][262]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.28-15.40.24:633][262]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.28-15.40.24:633][262]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.28-15.40.24:633][262]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.28-15.40.24:633][262]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.28-15.40.24:633][262]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.28-15.40.24:633][262]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.28-15.40.24:633][262]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.28-15.40.24:633][262]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.28-15.40.24:633][262]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.28-15.40.24:633][262]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.28-15.40.24:633][262]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.28-15.40.24:636][262]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.28-15.40.24:636][262]LogAudioMixer: Display: 1: FrontRight
+[2022.03.28-15.40.24:641][262]LogAudioMixer: Display: Using Audio Device Hörlurar på headset (2- CORSAIR HS70 Pro Wireless Gaming Headset)
+[2022.03.28-15.40.24:641][262]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.28-15.40.24:641][262]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.28-15.40.24:641][262]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.28-15.40.24:641][262]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.28-15.40.24:641][262]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.28-15.40.24:641][262]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.28-15.40.24:642][262]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.28-15.40.24:642][262]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.28-15.40.24:642][262]LogInit: FAudioDevice initialized.
+[2022.03.28-15.40.24:642][262]LogAudio: Display: Audio Device (ID: 18) registered with world 'Marika'.
+[2022.03.28-15.40.24:658][262]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.28-15.40.24:660][262]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika up for play (max tick rate 0) at 2022.03.28-17.40.24
+[2022.03.28-15.40.24:660][262]LogWorld: Bringing up level for play took: 0.001835
+[2022.03.28-15.40.24:660][262]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2022.03.28-15.40.24:662][262]PIE: Server logged in
+[2022.03.28-15.40.24:664][262]PIE: Play in editor total start time 0,097 seconds.
+[2022.03.28-15.40.29:437][823]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.40.29:437][823]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.40.29:437][823]LogWorld: UWorld::CleanupWorld for Marika, bSessionEnded=true, bCleanupResources=true
+[2022.03.28-15.40.29:437][823]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.40.29:450][823]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.28-15.40.29:457][823]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.40.29:469][823]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.28-15.40.29:470][823]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.40.29:471][823]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.40.29:472][823]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.40.29:474][823]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.03.28-15.40.29:513][824]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2022.03.28-15.41.01:536][519]BlueprintLog: New page: Compile Blocker
+[2022.03.28-15.41.01:570][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.03.28-15.41.02:094][568]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.28-15.41.02:100][568]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.28-15.41.02:100][568]PIE: New page: PIE session: Marika (28 mars 2022 19:41:02)
+[2022.03.28-15.41.02:125][568]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.41.02:134][568]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009253s)
+[2022.03.28-15.41.02:135][568]LogAIModule: Creating AISystem for world Marika
+[2022.03.28-15.41.02:135][568]LogPlayLevel: PIE: World Init took: (0.001165s)
+[2022.03.28-15.41.02:135][568]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Marika.Marika to /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika (0.010627s)
+[2022.03.28-15.41.02:153][568]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.03.28-15.41.02:153][568]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2022.03.28-15.41.02:153][568]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.28-15.41.02:153][568]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.28-15.41.02:153][568]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.28-15.41.02:153][568]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.28-15.41.02:153][568]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.28-15.41.02:153][568]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.28-15.41.02:153][568]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.28-15.41.02:153][568]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.28-15.41.02:154][568]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.28-15.41.02:154][568]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.28-15.41.02:154][568]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.28-15.41.02:154][568]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.28-15.41.02:156][568]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.28-15.41.02:156][568]LogAudioMixer: Display: 1: FrontRight
+[2022.03.28-15.41.02:161][568]LogAudioMixer: Display: Using Audio Device Hörlurar på headset (2- CORSAIR HS70 Pro Wireless Gaming Headset)
+[2022.03.28-15.41.02:162][568]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.28-15.41.02:162][568]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.28-15.41.02:162][568]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.28-15.41.02:162][568]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.28-15.41.02:162][568]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.28-15.41.02:162][568]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.28-15.41.02:163][568]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.28-15.41.02:163][568]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.28-15.41.02:163][568]LogInit: FAudioDevice initialized.
+[2022.03.28-15.41.02:163][568]LogAudio: Display: Audio Device (ID: 19) registered with world 'Marika'.
+[2022.03.28-15.41.02:173][568]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.28-15.41.02:174][568]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika up for play (max tick rate 0) at 2022.03.28-17.41.02
+[2022.03.28-15.41.02:175][568]LogWorld: Bringing up level for play took: 0.001259
+[2022.03.28-15.41.02:175][568]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2022.03.28-15.41.02:177][568]PIE: Server logged in
+[2022.03.28-15.41.02:178][568]PIE: Play in editor total start time 0,079 seconds.
+[2022.03.28-15.41.07:157][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.41.07:157][151]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.41.07:158][151]LogWorld: UWorld::CleanupWorld for Marika, bSessionEnded=true, bCleanupResources=true
+[2022.03.28-15.41.07:158][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.41.07:165][151]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.28-15.41.07:172][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.41.07:185][151]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.28-15.41.07:185][151]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.41.07:186][151]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.41.07:188][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.41.07:190][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.03.28-15.41.07:229][152]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2022.03.28-15.41.12:213][728]LogEditorViewport: Clicking on Actor (LMB): Blocker_C (Blocker)
+[2022.03.28-15.41.12:833][797]LogEditorViewport: Clicking on Actor (LMB): Blocker_C (Blocker)
+[2022.03.28-15.41.25:412][232]BlueprintLog: New page: Compile Blocker
+[2022.03.28-15.41.25:446][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.03.28-15.41.25:980][283]LogSavePackage: Moving '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Saved/BlockerEA13C01C438819C93271389D98E3A015.tmp' to '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Content/ThirdPersonBP/Blueprints/Blocker.uasset'
+[2022.03.28-15.41.25:992][283]AssetCheck: New page: Asset Save: Blocker
+[2022.03.28-15.41.25:992][283]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Blocker.Blocker
+[2022.03.28-15.41.26:783][367]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.28-15.41.26:791][367]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.28-15.41.26:791][367]PIE: New page: PIE session: Marika (28 mars 2022 19:41:26)
+[2022.03.28-15.41.26:836][367]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.41.26:844][367]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009324s)
+[2022.03.28-15.41.26:846][367]LogAIModule: Creating AISystem for world Marika
+[2022.03.28-15.41.26:846][367]LogPlayLevel: PIE: World Init took: (0.001387s)
+[2022.03.28-15.41.26:846][367]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Marika.Marika to /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika (0.010927s)
+[2022.03.28-15.41.26:864][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.03.28-15.41.26:865][367]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2022.03.28-15.41.26:865][367]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.28-15.41.26:865][367]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.28-15.41.26:865][367]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.28-15.41.26:865][367]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.28-15.41.26:865][367]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.28-15.41.26:865][367]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.28-15.41.26:865][367]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.28-15.41.26:865][367]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.28-15.41.26:866][367]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.28-15.41.26:866][367]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.28-15.41.26:866][367]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.28-15.41.26:866][367]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.28-15.41.26:868][367]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.28-15.41.26:868][367]LogAudioMixer: Display: 1: FrontRight
+[2022.03.28-15.41.26:873][367]LogAudioMixer: Display: Using Audio Device Hörlurar på headset (2- CORSAIR HS70 Pro Wireless Gaming Headset)
+[2022.03.28-15.41.26:873][367]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.28-15.41.26:873][367]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.28-15.41.26:873][367]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.28-15.41.26:873][367]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.28-15.41.26:873][367]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.28-15.41.26:873][367]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.28-15.41.26:874][367]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.28-15.41.26:874][367]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.28-15.41.26:874][367]LogInit: FAudioDevice initialized.
+[2022.03.28-15.41.26:874][367]LogAudio: Display: Audio Device (ID: 20) registered with world 'Marika'.
+[2022.03.28-15.41.26:885][367]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.28-15.41.26:887][367]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika up for play (max tick rate 0) at 2022.03.28-17.41.26
+[2022.03.28-15.41.26:887][367]LogWorld: Bringing up level for play took: 0.001343
+[2022.03.28-15.41.26:887][367]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2022.03.28-15.41.26:890][367]PIE: Server logged in
+[2022.03.28-15.41.26:892][367]PIE: Play in editor total start time 0,103 seconds.
+[2022.03.28-15.41.33:857][192]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2022.03.28-15.41.34:507][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.41.34:507][264]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.41.34:507][264]LogWorld: UWorld::CleanupWorld for Marika, bSessionEnded=true, bCleanupResources=true
+[2022.03.28-15.41.34:507][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.41.34:516][264]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.28-15.41.34:522][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.41.34:536][264]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.28-15.41.34:536][264]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.41.34:537][264]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.41.34:538][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.41.34:540][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.03.28-15.41.34:578][265]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2022.03.28-15.41.48:356][856]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.28-15.41.48:362][856]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.28-15.41.48:362][856]PIE: New page: PIE session: Marika (28 mars 2022 19:41:48)
+[2022.03.28-15.41.48:395][856]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.41.48:405][856]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010176s)
+[2022.03.28-15.41.48:406][856]LogAIModule: Creating AISystem for world Marika
+[2022.03.28-15.41.48:407][856]LogPlayLevel: PIE: World Init took: (0.001394s)
+[2022.03.28-15.41.48:407][856]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Marika.Marika to /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika (0.011782s)
+[2022.03.28-15.41.48:427][856]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.03.28-15.41.48:432][856]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2022.03.28-15.41.48:432][856]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.28-15.41.48:432][856]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.28-15.41.48:432][856]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.28-15.41.48:432][856]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.28-15.41.48:432][856]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.28-15.41.48:432][856]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.28-15.41.48:432][856]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.28-15.41.48:432][856]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.28-15.41.48:432][856]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.28-15.41.48:432][856]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.28-15.41.48:432][856]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.28-15.41.48:432][856]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.28-15.41.48:435][856]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.28-15.41.48:435][856]LogAudioMixer: Display: 1: FrontRight
+[2022.03.28-15.41.48:440][856]LogAudioMixer: Display: Using Audio Device Hörlurar på headset (2- CORSAIR HS70 Pro Wireless Gaming Headset)
+[2022.03.28-15.41.48:441][856]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.28-15.41.48:441][856]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.28-15.41.48:441][856]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.28-15.41.48:441][856]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.28-15.41.48:441][856]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.28-15.41.48:441][856]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.28-15.41.48:442][856]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.28-15.41.48:442][856]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.28-15.41.48:442][856]LogInit: FAudioDevice initialized.
+[2022.03.28-15.41.48:442][856]LogAudio: Display: Audio Device (ID: 21) registered with world 'Marika'.
+[2022.03.28-15.41.48:460][856]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.28-15.41.48:462][856]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika up for play (max tick rate 0) at 2022.03.28-17.41.48
+[2022.03.28-15.41.48:463][856]LogWorld: Bringing up level for play took: 0.001837
+[2022.03.28-15.41.48:463][856]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2022.03.28-15.41.48:466][856]PIE: Server logged in
+[2022.03.28-15.41.48:468][856]PIE: Play in editor total start time 0,107 seconds.
+[2022.03.28-15.41.55:582][700]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2022.03.28-15.41.56:566][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.41.56:566][814]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.41.56:566][814]LogWorld: UWorld::CleanupWorld for Marika, bSessionEnded=true, bCleanupResources=true
+[2022.03.28-15.41.56:566][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.41.56:578][814]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.28-15.41.56:584][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.41.56:597][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.41.56:597][814]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.41.56:598][814]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.41.56:602][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.03.28-15.41.56:642][815]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2022.03.28-15.42.03:449][570]BlueprintLog: New page: Compile Blocker
+[2022.03.28-15.42.03:481][570]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.03.28-15.42.03:947][611]LogSavePackage: Moving '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Saved/Blocker393B742545A8CFA5570922B57ACE0949.tmp' to '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Content/ThirdPersonBP/Blueprints/Blocker.uasset'
+[2022.03.28-15.42.03:959][611]AssetCheck: New page: Asset Save: Blocker
+[2022.03.28-15.42.03:959][611]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Blocker.Blocker
+[2022.03.28-15.42.04:954][721]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.28-15.42.04:960][721]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.28-15.42.04:960][721]PIE: New page: PIE session: Marika (28 mars 2022 19:42:04)
+[2022.03.28-15.42.04:995][721]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.42.05:004][721]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009112s)
+[2022.03.28-15.42.05:005][721]LogAIModule: Creating AISystem for world Marika
+[2022.03.28-15.42.05:005][721]LogPlayLevel: PIE: World Init took: (0.001294s)
+[2022.03.28-15.42.05:005][721]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Marika.Marika to /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika (0.010608s)
+[2022.03.28-15.42.05:023][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.03.28-15.42.05:024][721]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2022.03.28-15.42.05:024][721]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.28-15.42.05:024][721]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.28-15.42.05:024][721]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.28-15.42.05:024][721]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.28-15.42.05:024][721]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.28-15.42.05:024][721]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.28-15.42.05:024][721]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.28-15.42.05:024][721]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.28-15.42.05:025][721]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.28-15.42.05:025][721]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.28-15.42.05:025][721]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.28-15.42.05:025][721]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.28-15.42.05:027][721]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.28-15.42.05:027][721]LogAudioMixer: Display: 1: FrontRight
+[2022.03.28-15.42.05:032][721]LogAudioMixer: Display: Using Audio Device Hörlurar på headset (2- CORSAIR HS70 Pro Wireless Gaming Headset)
+[2022.03.28-15.42.05:032][721]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.28-15.42.05:032][721]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.28-15.42.05:032][721]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.28-15.42.05:032][721]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.28-15.42.05:033][721]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.28-15.42.05:033][721]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.28-15.42.05:033][721]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.28-15.42.05:033][721]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.28-15.42.05:033][721]LogInit: FAudioDevice initialized.
+[2022.03.28-15.42.05:033][721]LogAudio: Display: Audio Device (ID: 22) registered with world 'Marika'.
+[2022.03.28-15.42.05:048][721]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.28-15.42.05:050][721]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika up for play (max tick rate 0) at 2022.03.28-17.42.05
+[2022.03.28-15.42.05:050][721]LogWorld: Bringing up level for play took: 0.001208
+[2022.03.28-15.42.05:050][721]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2022.03.28-15.42.05:052][721]PIE: Server logged in
+[2022.03.28-15.42.05:054][721]PIE: Play in editor total start time 0,095 seconds.
+[2022.03.28-15.42.13:098][671]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.42.13:098][671]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.42.13:098][671]LogWorld: UWorld::CleanupWorld for Marika, bSessionEnded=true, bCleanupResources=true
+[2022.03.28-15.42.13:099][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.42.13:109][671]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.28-15.42.13:118][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.42.13:131][671]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.28-15.42.13:131][671]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.42.13:132][671]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.42.13:134][671]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.42.13:136][671]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.03.28-15.42.13:176][672]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2022.03.28-15.42.31:802][588]BlueprintLog: New page: Compile Blocker
+[2022.03.28-15.42.31:851][588]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.03.28-15.42.32:349][629]LogSavePackage: Moving '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Saved/Blocker25C3006244B8068AFA0F97A935258559.tmp' to '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Content/ThirdPersonBP/Blueprints/Blocker.uasset'
+[2022.03.28-15.42.32:362][629]AssetCheck: New page: Asset Save: Blocker
+[2022.03.28-15.42.32:362][629]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Blocker.Blocker
+[2022.03.28-15.42.33:014][693]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.28-15.42.33:020][693]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.28-15.42.33:020][693]PIE: New page: PIE session: Marika (28 mars 2022 19:42:33)
+[2022.03.28-15.42.33:045][693]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.42.33:054][693]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008461s)
+[2022.03.28-15.42.33:055][693]LogAIModule: Creating AISystem for world Marika
+[2022.03.28-15.42.33:056][693]LogPlayLevel: PIE: World Init took: (0.001665s)
+[2022.03.28-15.42.33:056][693]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Marika.Marika to /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika (0.010482s)
+[2022.03.28-15.42.33:072][693]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.03.28-15.42.33:074][693]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2022.03.28-15.42.33:074][693]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.28-15.42.33:074][693]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.28-15.42.33:074][693]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.28-15.42.33:074][693]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.28-15.42.33:074][693]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.28-15.42.33:074][693]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.28-15.42.33:074][693]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.28-15.42.33:074][693]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.28-15.42.33:074][693]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.28-15.42.33:074][693]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.28-15.42.33:074][693]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.28-15.42.33:074][693]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.28-15.42.33:076][693]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.28-15.42.33:077][693]LogAudioMixer: Display: 1: FrontRight
+[2022.03.28-15.42.33:082][693]LogAudioMixer: Display: Using Audio Device Hörlurar på headset (2- CORSAIR HS70 Pro Wireless Gaming Headset)
+[2022.03.28-15.42.33:082][693]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.28-15.42.33:082][693]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.28-15.42.33:082][693]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.28-15.42.33:082][693]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.28-15.42.33:082][693]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.28-15.42.33:082][693]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.28-15.42.33:083][693]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.28-15.42.33:083][693]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.28-15.42.33:083][693]LogInit: FAudioDevice initialized.
+[2022.03.28-15.42.33:083][693]LogAudio: Display: Audio Device (ID: 23) registered with world 'Marika'.
+[2022.03.28-15.42.33:094][693]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.28-15.42.33:096][693]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika up for play (max tick rate 0) at 2022.03.28-17.42.33
+[2022.03.28-15.42.33:096][693]LogWorld: Bringing up level for play took: 0.001340
+[2022.03.28-15.42.33:096][693]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2022.03.28-15.42.33:098][693]PIE: Server logged in
+[2022.03.28-15.42.33:100][693]PIE: Play in editor total start time 0,081 seconds.
+[2022.03.28-15.42.40:270][542]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2022.03.28-15.42.41:447][679]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.42.41:447][679]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.42.41:448][679]LogWorld: UWorld::CleanupWorld for Marika, bSessionEnded=true, bCleanupResources=true
+[2022.03.28-15.42.41:448][679]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.42.41:461][679]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.28-15.42.41:469][679]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.42.41:482][679]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.28-15.42.41:483][679]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.42.41:483][679]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.42.41:486][679]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.42.41:488][679]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.03.28-15.42.41:524][680]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2022.03.28-15.42.47:554][347]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.28-15.42.47:561][347]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.28-15.42.47:561][347]PIE: New page: PIE session: Marika (28 mars 2022 19:42:47)
+[2022.03.28-15.42.47:595][347]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.42.47:605][347]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009726s)
+[2022.03.28-15.42.47:606][347]LogAIModule: Creating AISystem for world Marika
+[2022.03.28-15.42.47:606][347]LogPlayLevel: PIE: World Init took: (0.001160s)
+[2022.03.28-15.42.47:606][347]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Marika.Marika to /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika (0.011117s)
+[2022.03.28-15.42.47:625][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.03.28-15.42.47:629][347]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2022.03.28-15.42.47:629][347]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.28-15.42.47:629][347]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.28-15.42.47:629][347]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.28-15.42.47:629][347]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.28-15.42.47:629][347]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.28-15.42.47:629][347]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.28-15.42.47:629][347]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.28-15.42.47:629][347]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.28-15.42.47:629][347]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.28-15.42.47:629][347]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.28-15.42.47:629][347]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.28-15.42.47:629][347]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.28-15.42.47:632][347]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.28-15.42.47:632][347]LogAudioMixer: Display: 1: FrontRight
+[2022.03.28-15.42.47:637][347]LogAudioMixer: Display: Using Audio Device Hörlurar på headset (2- CORSAIR HS70 Pro Wireless Gaming Headset)
+[2022.03.28-15.42.47:637][347]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.28-15.42.47:637][347]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.28-15.42.47:637][347]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.28-15.42.47:637][347]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.28-15.42.47:637][347]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.28-15.42.47:637][347]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.28-15.42.47:638][347]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.28-15.42.47:638][347]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.28-15.42.47:638][347]LogInit: FAudioDevice initialized.
+[2022.03.28-15.42.47:638][347]LogAudio: Display: Audio Device (ID: 24) registered with world 'Marika'.
+[2022.03.28-15.42.47:653][347]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.28-15.42.47:655][347]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika up for play (max tick rate 0) at 2022.03.28-17.42.47
+[2022.03.28-15.42.47:655][347]LogWorld: Bringing up level for play took: 0.002015
+[2022.03.28-15.42.47:655][347]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2022.03.28-15.42.47:658][347]PIE: Server logged in
+[2022.03.28-15.42.47:660][347]PIE: Play in editor total start time 0,1 seconds.
+[2022.03.28-15.42.54:793][195]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2022.03.28-15.42.55:388][262]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.42.55:388][262]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.42.55:388][262]LogWorld: UWorld::CleanupWorld for Marika, bSessionEnded=true, bCleanupResources=true
+[2022.03.28-15.42.55:388][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.42.55:400][262]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.28-15.42.55:406][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.42.55:419][262]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.28-15.42.55:419][262]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.42.55:419][262]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.42.55:421][262]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.42.55:424][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.03.28-15.42.55:460][263]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2022.03.28-15.43.06:285][447]BlueprintLog: New page: Compile Blocker
+[2022.03.28-15.43.06:318][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.03.28-15.43.07:011][510]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.28-15.43.07:017][510]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.28-15.43.07:017][510]PIE: New page: PIE session: Marika (28 mars 2022 19:43:07)
+[2022.03.28-15.43.07:017][510]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.43.07:025][510]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008015s)
+[2022.03.28-15.43.07:026][510]LogAIModule: Creating AISystem for world Marika
+[2022.03.28-15.43.07:026][510]LogPlayLevel: PIE: World Init took: (0.000919s)
+[2022.03.28-15.43.07:026][510]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Marika.Marika to /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika (0.009037s)
+[2022.03.28-15.43.07:043][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.03.28-15.43.07:044][510]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2022.03.28-15.43.07:044][510]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.28-15.43.07:044][510]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.28-15.43.07:044][510]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.28-15.43.07:044][510]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.28-15.43.07:044][510]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.28-15.43.07:044][510]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.28-15.43.07:044][510]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.28-15.43.07:044][510]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.28-15.43.07:044][510]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.28-15.43.07:044][510]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.28-15.43.07:044][510]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.28-15.43.07:044][510]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.28-15.43.07:047][510]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.28-15.43.07:047][510]LogAudioMixer: Display: 1: FrontRight
+[2022.03.28-15.43.07:052][510]LogAudioMixer: Display: Using Audio Device Hörlurar på headset (2- CORSAIR HS70 Pro Wireless Gaming Headset)
+[2022.03.28-15.43.07:052][510]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.28-15.43.07:052][510]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.28-15.43.07:052][510]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.28-15.43.07:052][510]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.28-15.43.07:052][510]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.28-15.43.07:052][510]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.28-15.43.07:054][510]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.28-15.43.07:054][510]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.28-15.43.07:054][510]LogInit: FAudioDevice initialized.
+[2022.03.28-15.43.07:054][510]LogAudio: Display: Audio Device (ID: 25) registered with world 'Marika'.
+[2022.03.28-15.43.07:063][510]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.28-15.43.07:065][510]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika up for play (max tick rate 0) at 2022.03.28-17.43.07
+[2022.03.28-15.43.07:065][510]LogWorld: Bringing up level for play took: 0.001550
+[2022.03.28-15.43.07:066][510]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2022.03.28-15.43.07:068][510]PIE: Server logged in
+[2022.03.28-15.43.07:071][510]PIE: Play in editor total start time 0,055 seconds.
+[2022.03.28-15.43.17:526][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.43.17:526][704]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.43.17:527][704]LogWorld: UWorld::CleanupWorld for Marika, bSessionEnded=true, bCleanupResources=true
+[2022.03.28-15.43.17:527][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.43.17:539][704]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.28-15.43.17:545][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.43.17:558][704]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.28-15.43.17:558][704]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.43.17:559][704]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.43.17:561][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.43.17:563][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.03.28-15.43.17:607][705]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2022.03.28-15.43.19:432][885]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.28-15.43.19:438][885]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.28-15.43.19:438][885]PIE: New page: PIE session: Marika (28 mars 2022 19:43:19)
+[2022.03.28-15.43.19:475][885]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.43.19:484][885]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008677s)
+[2022.03.28-15.43.19:484][885]LogAIModule: Creating AISystem for world Marika
+[2022.03.28-15.43.19:485][885]LogPlayLevel: PIE: World Init took: (0.001190s)
+[2022.03.28-15.43.19:485][885]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Marika.Marika to /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika (0.010069s)
+[2022.03.28-15.43.19:504][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.03.28-15.43.19:505][885]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2022.03.28-15.43.19:506][885]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.28-15.43.19:506][885]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.28-15.43.19:506][885]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.28-15.43.19:506][885]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.28-15.43.19:506][885]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.28-15.43.19:506][885]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.28-15.43.19:506][885]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.28-15.43.19:506][885]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.28-15.43.19:506][885]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.28-15.43.19:506][885]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.28-15.43.19:506][885]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.28-15.43.19:506][885]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.28-15.43.19:508][885]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.28-15.43.19:508][885]LogAudioMixer: Display: 1: FrontRight
+[2022.03.28-15.43.19:514][885]LogAudioMixer: Display: Using Audio Device Hörlurar på headset (2- CORSAIR HS70 Pro Wireless Gaming Headset)
+[2022.03.28-15.43.19:514][885]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.28-15.43.19:514][885]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.28-15.43.19:514][885]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.28-15.43.19:514][885]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.28-15.43.19:514][885]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.28-15.43.19:514][885]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.28-15.43.19:515][885]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.28-15.43.19:515][885]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.28-15.43.19:515][885]LogInit: FAudioDevice initialized.
+[2022.03.28-15.43.19:515][885]LogAudio: Display: Audio Device (ID: 26) registered with world 'Marika'.
+[2022.03.28-15.43.19:529][885]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.28-15.43.19:530][885]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika up for play (max tick rate 0) at 2022.03.28-17.43.19
+[2022.03.28-15.43.19:530][885]LogWorld: Bringing up level for play took: 0.001304
+[2022.03.28-15.43.19:530][885]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2022.03.28-15.43.19:532][885]PIE: Server logged in
+[2022.03.28-15.43.19:534][885]PIE: Play in editor total start time 0,097 seconds.
+[2022.03.28-15.43.21:266][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.43.21:266][ 75]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.43.21:267][ 75]LogWorld: UWorld::CleanupWorld for Marika, bSessionEnded=true, bCleanupResources=true
+[2022.03.28-15.43.21:267][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.43.21:280][ 75]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.28-15.43.21:287][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.43.21:300][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.43.21:300][ 75]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.43.21:301][ 75]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.43.21:304][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.03.28-15.43.21:347][ 76]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2022.03.28-15.43.25:215][477]BlueprintLog: New page: Compile Blocker
+[2022.03.28-15.43.25:249][477]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.03.28-15.43.25:797][525]LogSavePackage: Moving '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Saved/Blocker8127396240A5E46EDB3DBB88A08DA16D.tmp' to '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Content/ThirdPersonBP/Blueprints/Blocker.uasset'
+[2022.03.28-15.43.25:811][525]AssetCheck: New page: Asset Save: Blocker
+[2022.03.28-15.43.25:811][525]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Blocker.Blocker
+[2022.03.28-15.43.26:631][606]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.28-15.43.26:638][606]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.28-15.43.26:638][606]PIE: New page: PIE session: Marika (28 mars 2022 19:43:26)
+[2022.03.28-15.43.26:638][606]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.43.26:646][606]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007769s)
+[2022.03.28-15.43.26:647][606]LogAIModule: Creating AISystem for world Marika
+[2022.03.28-15.43.26:647][606]LogPlayLevel: PIE: World Init took: (0.000829s)
+[2022.03.28-15.43.26:647][606]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Marika.Marika to /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika (0.008691s)
+[2022.03.28-15.43.26:663][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.03.28-15.43.26:664][606]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2022.03.28-15.43.26:664][606]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.28-15.43.26:664][606]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.28-15.43.26:664][606]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.28-15.43.26:664][606]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.28-15.43.26:664][606]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.28-15.43.26:664][606]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.28-15.43.26:664][606]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.28-15.43.26:664][606]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.28-15.43.26:664][606]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.28-15.43.26:664][606]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.28-15.43.26:664][606]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.28-15.43.26:664][606]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.28-15.43.26:667][606]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.28-15.43.26:667][606]LogAudioMixer: Display: 1: FrontRight
+[2022.03.28-15.43.26:672][606]LogAudioMixer: Display: Using Audio Device Hörlurar på headset (2- CORSAIR HS70 Pro Wireless Gaming Headset)
+[2022.03.28-15.43.26:672][606]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.28-15.43.26:672][606]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.28-15.43.26:672][606]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.28-15.43.26:672][606]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.28-15.43.26:672][606]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.28-15.43.26:672][606]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.28-15.43.26:673][606]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.28-15.43.26:673][606]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.28-15.43.26:673][606]LogInit: FAudioDevice initialized.
+[2022.03.28-15.43.26:673][606]LogAudio: Display: Audio Device (ID: 27) registered with world 'Marika'.
+[2022.03.28-15.43.26:683][606]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.28-15.43.26:684][606]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika up for play (max tick rate 0) at 2022.03.28-17.43.26
+[2022.03.28-15.43.26:684][606]LogWorld: Bringing up level for play took: 0.001324
+[2022.03.28-15.43.26:685][606]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2022.03.28-15.43.26:687][606]PIE: Server logged in
+[2022.03.28-15.43.26:689][606]PIE: Play in editor total start time 0,053 seconds.
+[2022.03.28-15.43.34:117][436]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.43.34:117][436]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.43.34:117][436]LogWorld: UWorld::CleanupWorld for Marika, bSessionEnded=true, bCleanupResources=true
+[2022.03.28-15.43.34:117][436]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.43.34:130][436]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.28-15.43.34:136][436]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.43.34:149][436]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.28-15.43.34:149][436]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.43.34:150][436]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.43.34:152][436]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.43.34:154][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.03.28-15.43.34:194][437]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2022.03.28-15.44.02:471][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.03.28-15.44.02:495][859]LogSavePackage: Moving '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Saved/Marika_Auto3ECF2B1E34C9D60838A2DBCB800F9468C.tmp' to '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Saved/Autosaves/Game/ThirdPersonBP/Maps/Marika_Auto3.umap'
+[2022.03.28-15.44.02:500][859]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/Marika' took 0.051
+[2022.03.28-15.44.02:500][859]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.051
+[2022.03.28-15.44.52:111][640]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\marik\Downloads\360329__inspectorj__camera-shutter-fast-a.wav)
+[2022.03.28-15.45.02:299][394]LogContentBrowser: Attempting asset rename: 360329__inspectorj__camera-shutter-fast-a -> Door_Sound
+[2022.03.28-15.45.02:348][394]LogSavePackage: Moving '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Saved/Door_Sound40AE70D544D8411C763DD68426BFDE91.tmp' to '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Content/ThirdPersonBP/Sounds/Door_Sound.uasset'
+[2022.03.28-15.45.02:427][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.03.28-15.45.02:454][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.03.28-15.45.02:468][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.03.28-15.45.02:493][394]AssetCheck: New page: Asset Save: Door_Sound
+[2022.03.28-15.45.02:493][394]LogContentValidation: Display: Validating SoundWave /Game/ThirdPersonBP/Sounds/Door_Sound.Door_Sound
+[2022.03.28-15.45.27:455][914]BlueprintLog: New page: Compile Blocker
+[2022.03.28-15.45.27:489][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.03.28-15.45.54:174][ 22]BlueprintLog: New page: Compile Blocker
+[2022.03.28-15.45.54:208][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.03.28-15.45.55:131][115]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.28-15.45.55:137][115]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.28-15.45.55:137][115]PIE: New page: PIE session: Marika (28 mars 2022 19:45:55)
+[2022.03.28-15.45.55:165][115]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.45.55:172][115]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007260s)
+[2022.03.28-15.45.55:173][115]LogAIModule: Creating AISystem for world Marika
+[2022.03.28-15.45.55:173][115]LogPlayLevel: PIE: World Init took: (0.000982s)
+[2022.03.28-15.45.55:173][115]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Marika.Marika to /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika (0.008389s)
+[2022.03.28-15.45.55:190][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.03.28-15.45.55:191][115]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2022.03.28-15.45.55:191][115]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.28-15.45.55:191][115]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.28-15.45.55:191][115]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.28-15.45.55:191][115]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.28-15.45.55:191][115]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.28-15.45.55:191][115]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.28-15.45.55:191][115]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.28-15.45.55:191][115]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.28-15.45.55:192][115]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.28-15.45.55:192][115]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.28-15.45.55:192][115]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.28-15.45.55:192][115]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.28-15.45.55:195][115]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.28-15.45.55:195][115]LogAudioMixer: Display: 1: FrontRight
+[2022.03.28-15.45.55:200][115]LogAudioMixer: Display: Using Audio Device Hörlurar på headset (2- CORSAIR HS70 Pro Wireless Gaming Headset)
+[2022.03.28-15.45.55:200][115]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.28-15.45.55:200][115]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.28-15.45.55:200][115]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.28-15.45.55:201][115]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.28-15.45.55:201][115]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.28-15.45.55:201][115]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.28-15.45.55:202][115]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.28-15.45.55:202][115]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.28-15.45.55:202][115]LogInit: FAudioDevice initialized.
+[2022.03.28-15.45.55:202][115]LogAudio: Display: Audio Device (ID: 28) registered with world 'Marika'.
+[2022.03.28-15.45.55:219][115]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.28-15.45.55:220][115]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika up for play (max tick rate 0) at 2022.03.28-17.45.55
+[2022.03.28-15.45.55:220][115]LogWorld: Bringing up level for play took: 0.001275
+[2022.03.28-15.45.55:220][115]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2022.03.28-15.45.55:222][115]PIE: Server logged in
+[2022.03.28-15.45.55:224][115]PIE: Play in editor total start time 0,088 seconds.
+[2022.03.28-15.45.59:140][577]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Door_Sound...
+[2022.03.28-15.45.59:140][577]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/ThirdPersonBP/Sounds/Door_Sound.Door_Sound will be modified from 40 to 40.
+[2022.03.28-15.45.59:167][577]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 320128 while cooking SoundWave /Game/ThirdPersonBP/Sounds/Door_Sound.Door_Sound.
+[2022.03.28-15.46.10:517][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.46.10:517][931]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.46.10:517][931]LogWorld: UWorld::CleanupWorld for Marika, bSessionEnded=true, bCleanupResources=true
+[2022.03.28-15.46.10:517][931]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.46.10:526][931]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.28-15.46.10:532][931]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.46.10:545][931]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.28-15.46.10:545][931]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.46.10:546][931]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.46.10:548][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.46.10:550][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.03.28-15.46.10:588][932]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2022.03.28-15.46.16:067][542]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.28-15.46.16:075][542]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.28-15.46.16:075][542]PIE: New page: PIE session: Marika (28 mars 2022 19:46:16)
+[2022.03.28-15.46.16:115][542]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.46.16:124][542]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009444s)
+[2022.03.28-15.46.16:125][542]LogAIModule: Creating AISystem for world Marika
+[2022.03.28-15.46.16:125][542]LogPlayLevel: PIE: World Init took: (0.001172s)
+[2022.03.28-15.46.16:125][542]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Marika.Marika to /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika (0.010770s)
+[2022.03.28-15.46.16:147][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.03.28-15.46.16:150][542]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2022.03.28-15.46.16:150][542]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.28-15.46.16:150][542]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.28-15.46.16:150][542]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.28-15.46.16:150][542]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.28-15.46.16:150][542]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.28-15.46.16:150][542]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.28-15.46.16:150][542]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.28-15.46.16:150][542]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.28-15.46.16:151][542]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.28-15.46.16:151][542]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.28-15.46.16:151][542]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.28-15.46.16:151][542]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.28-15.46.16:153][542]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.28-15.46.16:153][542]LogAudioMixer: Display: 1: FrontRight
+[2022.03.28-15.46.16:158][542]LogAudioMixer: Display: Using Audio Device Hörlurar på headset (2- CORSAIR HS70 Pro Wireless Gaming Headset)
+[2022.03.28-15.46.16:158][542]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.28-15.46.16:158][542]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.28-15.46.16:158][542]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.28-15.46.16:159][542]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.28-15.46.16:159][542]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.28-15.46.16:159][542]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.28-15.46.16:159][542]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.28-15.46.16:159][542]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.28-15.46.16:159][542]LogInit: FAudioDevice initialized.
+[2022.03.28-15.46.16:159][542]LogAudio: Display: Audio Device (ID: 29) registered with world 'Marika'.
+[2022.03.28-15.46.16:172][542]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.28-15.46.16:175][542]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika up for play (max tick rate 0) at 2022.03.28-17.46.16
+[2022.03.28-15.46.16:176][542]LogWorld: Bringing up level for play took: 0.002449
+[2022.03.28-15.46.16:176][542]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2022.03.28-15.46.16:179][542]PIE: Server logged in
+[2022.03.28-15.46.16:182][542]PIE: Play in editor total start time 0,109 seconds.
+[2022.03.28-15.46.17:507][691]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.46.17:507][691]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.46.17:507][691]LogWorld: UWorld::CleanupWorld for Marika, bSessionEnded=true, bCleanupResources=true
+[2022.03.28-15.46.17:507][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.46.17:515][691]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.28-15.46.17:522][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.46.17:536][691]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.46.17:536][691]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.46.17:537][691]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.46.17:541][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.03.28-15.46.17:579][692]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2022.03.28-15.46.30:742][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.03.28-15.46.31:841][ 33]LogSlate: Window 'Delete Assets' being destroyed
+[2022.03.28-15.46.31:892][ 33]LogSlate: Window 'Blocker' being destroyed
+[2022.03.28-15.46.31:945][ 33]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.03.28-15.46.31:945][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.46.31:985][ 33]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ThirdPersonBP/Sounds/Door_Sound.Door_Sound
+[2022.03.28-15.46.32:635][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.03.28-15.46.32:651][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.03.28-15.46.32:662][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.03.28-15.46.40:254][215]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\marik\Downloads\243699__ertfelda__hidden-wall-opening.wav)
+[2022.03.28-15.46.42:272][224]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave 243699__ertfelda__hidden-wall-opening...
+[2022.03.28-15.46.42:272][224]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/ThirdPersonBP/Sounds/243699__ertfelda__hidden-wall-opening.243699__ertfelda__hidden-wall-opening will be modified from 40 to 40.
+[2022.03.28-15.46.42:327][224]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 624656 while cooking SoundWave /Game/ThirdPersonBP/Sounds/243699__ertfelda__hidden-wall-opening.243699__ertfelda__hidden-wall-opening.
+[2022.03.28-15.46.48:613][952]LogContentBrowser: Attempting asset rename: 243699__ertfelda__hidden-wall-opening -> Door_Sound
+[2022.03.28-15.46.48:648][952]LogSavePackage: Moving '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Saved/Door_Sound0A1807404FB9DF0891208B8244BC78BC.tmp' to '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Content/ThirdPersonBP/Sounds/Door_Sound.uasset'
+[2022.03.28-15.46.48:711][952]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.03.28-15.46.48:744][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.03.28-15.46.48:758][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.03.28-15.46.48:783][952]AssetCheck: New page: Asset Save: Door_Sound
+[2022.03.28-15.46.48:783][952]LogContentValidation: Display: Validating SoundWave /Game/ThirdPersonBP/Sounds/Door_Sound.Door_Sound
+[2022.03.28-15.46.57:995][770]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Blocker.Blocker
+[2022.03.28-15.47.07:685][639]BlueprintLog: New page: Compile Blocker
+[2022.03.28-15.47.07:719][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.03.28-15.47.08:898][716]LogSavePackage: Moving '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Saved/BlockerAECDD0754E838D4F7FC92FB4A5F76ADC.tmp' to '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Content/ThirdPersonBP/Blueprints/Blocker.uasset'
+[2022.03.28-15.47.08:910][716]AssetCheck: New page: Asset Save: Blocker
+[2022.03.28-15.47.08:910][716]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Blocker.Blocker
+[2022.03.28-15.47.15:670][367]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.28-15.47.15:674][367]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.28-15.47.15:674][367]PIE: New page: PIE session: Marika (28 mars 2022 19:47:15)
+[2022.03.28-15.47.15:694][367]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.47.15:702][367]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007509s)
+[2022.03.28-15.47.15:703][367]LogAIModule: Creating AISystem for world Marika
+[2022.03.28-15.47.15:703][367]LogPlayLevel: PIE: World Init took: (0.001010s)
+[2022.03.28-15.47.15:703][367]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Marika.Marika to /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika (0.008724s)
+[2022.03.28-15.47.15:724][367]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2022.03.28-15.47.15:727][367]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2022.03.28-15.47.15:727][367]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.28-15.47.15:727][367]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.28-15.47.15:727][367]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.28-15.47.15:727][367]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.28-15.47.15:727][367]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.28-15.47.15:727][367]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.28-15.47.15:727][367]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.28-15.47.15:727][367]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.28-15.47.15:728][367]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.28-15.47.15:728][367]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.28-15.47.15:728][367]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.28-15.47.15:728][367]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.28-15.47.15:730][367]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.28-15.47.15:730][367]LogAudioMixer: Display: 1: FrontRight
+[2022.03.28-15.47.15:736][367]LogAudioMixer: Display: Using Audio Device Hörlurar på headset (2- CORSAIR HS70 Pro Wireless Gaming Headset)
+[2022.03.28-15.47.15:736][367]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.28-15.47.15:736][367]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.28-15.47.15:736][367]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.28-15.47.15:736][367]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.28-15.47.15:736][367]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.28-15.47.15:736][367]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.28-15.47.15:737][367]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.28-15.47.15:737][367]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.28-15.47.15:737][367]LogInit: FAudioDevice initialized.
+[2022.03.28-15.47.15:737][367]LogAudio: Display: Audio Device (ID: 30) registered with world 'Marika'.
+[2022.03.28-15.47.15:749][367]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.28-15.47.15:750][367]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika up for play (max tick rate 0) at 2022.03.28-17.47.15
+[2022.03.28-15.47.15:751][367]LogWorld: Bringing up level for play took: 0.001401
+[2022.03.28-15.47.15:751][367]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2022.03.28-15.47.15:753][367]PIE: Server logged in
+[2022.03.28-15.47.15:756][367]PIE: Play in editor total start time 0,083 seconds.
+[2022.03.28-15.47.27:196][629]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.47.27:196][629]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.47.27:196][629]LogWorld: UWorld::CleanupWorld for Marika, bSessionEnded=true, bCleanupResources=true
+[2022.03.28-15.47.27:197][629]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.47.27:211][629]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.28-15.47.27:218][629]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.47.27:231][629]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.28-15.47.27:232][629]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.47.27:232][629]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.47.27:234][629]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.47.27:237][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.03.28-15.47.27:281][630]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2022.03.28-15.47.44:952][354]LogContentBrowser: Attempting asset rename: Door_Sound -> Door_Sound
+[2022.03.28-15.47.46:114][486]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/ThirdPersonBP/Sounds/Door_Sound.Door_Sound
+[2022.03.28-15.49.05:949][728]BlueprintLog: New page: Compile Blocker
+[2022.03.28-15.49.05:981][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.03.28-15.49.06:955][812]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.28-15.49.06:961][812]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.28-15.49.06:961][812]PIE: New page: PIE session: Marika (28 mars 2022 19:49:06)
+[2022.03.28-15.49.06:995][812]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.49.07:003][812]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007820s)
+[2022.03.28-15.49.07:003][812]LogAIModule: Creating AISystem for world Marika
+[2022.03.28-15.49.07:004][812]LogPlayLevel: PIE: World Init took: (0.001295s)
+[2022.03.28-15.49.07:004][812]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Marika.Marika to /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika (0.009331s)
+[2022.03.28-15.49.07:021][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.03.28-15.49.07:022][812]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2022.03.28-15.49.07:022][812]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.28-15.49.07:022][812]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.28-15.49.07:022][812]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.28-15.49.07:022][812]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.28-15.49.07:022][812]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.28-15.49.07:022][812]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.28-15.49.07:022][812]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.28-15.49.07:022][812]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.28-15.49.07:023][812]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.28-15.49.07:023][812]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.28-15.49.07:023][812]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.28-15.49.07:023][812]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.28-15.49.07:025][812]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.28-15.49.07:025][812]LogAudioMixer: Display: 1: FrontRight
+[2022.03.28-15.49.07:031][812]LogAudioMixer: Display: Using Audio Device Hörlurar på headset (2- CORSAIR HS70 Pro Wireless Gaming Headset)
+[2022.03.28-15.49.07:031][812]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.28-15.49.07:031][812]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.28-15.49.07:031][812]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.28-15.49.07:031][812]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.28-15.49.07:031][812]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.28-15.49.07:031][812]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.28-15.49.07:032][812]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.28-15.49.07:032][812]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.28-15.49.07:032][812]LogInit: FAudioDevice initialized.
+[2022.03.28-15.49.07:032][812]LogAudio: Display: Audio Device (ID: 31) registered with world 'Marika'.
+[2022.03.28-15.49.07:043][812]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.28-15.49.07:045][812]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika up for play (max tick rate 0) at 2022.03.28-17.49.07
+[2022.03.28-15.49.07:045][812]LogWorld: Bringing up level for play took: 0.001542
+[2022.03.28-15.49.07:045][812]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2022.03.28-15.49.07:047][812]PIE: Server logged in
+[2022.03.28-15.49.07:049][812]PIE: Play in editor total start time 0,089 seconds.
+[2022.03.28-15.49.19:188][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.49.19:188][161]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.49.19:188][161]LogWorld: UWorld::CleanupWorld for Marika, bSessionEnded=true, bCleanupResources=true
+[2022.03.28-15.49.19:188][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.49.19:199][161]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.28-15.49.19:206][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.49.19:222][161]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.28-15.49.19:222][161]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.49.19:223][161]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.49.19:224][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.49.19:227][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.03.28-15.49.19:273][162]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2022.03.28-15.50.03:621][722]BlueprintLog: New page: Compile Blocker
+[2022.03.28-15.50.03:652][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.03.28-15.50.04:170][765]LogSavePackage: Moving '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Saved/Blocker1958449841E793EC72C80F96827CC7CB.tmp' to '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Content/ThirdPersonBP/Blueprints/Blocker.uasset'
+[2022.03.28-15.50.04:185][765]AssetCheck: New page: Asset Save: Blocker
+[2022.03.28-15.50.04:185][765]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Blocker.Blocker
+[2022.03.28-15.50.05:237][867]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.28-15.50.05:242][867]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.28-15.50.05:242][867]PIE: New page: PIE session: Marika (28 mars 2022 19:50:05)
+[2022.03.28-15.50.05:275][867]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.50.05:284][867]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009065s)
+[2022.03.28-15.50.05:285][867]LogAIModule: Creating AISystem for world Marika
+[2022.03.28-15.50.05:285][867]LogPlayLevel: PIE: World Init took: (0.001084s)
+[2022.03.28-15.50.05:285][867]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Marika.Marika to /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika (0.010297s)
+[2022.03.28-15.50.05:301][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.03.28-15.50.05:303][867]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2022.03.28-15.50.05:303][867]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.28-15.50.05:303][867]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.28-15.50.05:303][867]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.28-15.50.05:303][867]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.28-15.50.05:303][867]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.28-15.50.05:303][867]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.28-15.50.05:303][867]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.28-15.50.05:303][867]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.28-15.50.05:303][867]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.28-15.50.05:303][867]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.28-15.50.05:303][867]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.28-15.50.05:303][867]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.28-15.50.05:306][867]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.28-15.50.05:306][867]LogAudioMixer: Display: 1: FrontRight
+[2022.03.28-15.50.05:311][867]LogAudioMixer: Display: Using Audio Device Hörlurar på headset (2- CORSAIR HS70 Pro Wireless Gaming Headset)
+[2022.03.28-15.50.05:311][867]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.28-15.50.05:311][867]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.28-15.50.05:311][867]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.28-15.50.05:312][867]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.28-15.50.05:312][867]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.28-15.50.05:312][867]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.28-15.50.05:312][867]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.28-15.50.05:312][867]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.28-15.50.05:312][867]LogInit: FAudioDevice initialized.
+[2022.03.28-15.50.05:312][867]LogAudio: Display: Audio Device (ID: 32) registered with world 'Marika'.
+[2022.03.28-15.50.05:328][867]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.28-15.50.05:330][867]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika.Marika up for play (max tick rate 0) at 2022.03.28-17.50.05
+[2022.03.28-15.50.05:330][867]LogWorld: Bringing up level for play took: 0.001549
+[2022.03.28-15.50.05:331][867]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2022.03.28-15.50.05:332][867]PIE: Server logged in
+[2022.03.28-15.50.05:334][867]PIE: Play in editor total start time 0,093 seconds.
+[2022.03.28-15.50.18:426][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.50.18:426][320]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Marika
+[2022.03.28-15.50.18:426][320]LogWorld: UWorld::CleanupWorld for Marika, bSessionEnded=true, bCleanupResources=true
+[2022.03.28-15.50.18:427][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.50.18:442][320]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.28-15.50.18:448][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-15.50.18:461][320]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.28-15.50.18:461][320]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.50.18:462][320]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-15.50.18:463][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-15.50.18:466][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.03.28-15.50.18:507][321]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2022.03.28-15.51.15:967][245]BlueprintLog: New page: Compile Blocker
+[2022.03.28-15.51.16:000][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.03.28-15.51.17:203][351]LogSavePackage: Moving '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Saved/Blocker6138ADD248E44F1F25CAC0B0B286A104.tmp' to '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Content/ThirdPersonBP/Blueprints/Blocker.uasset'
+[2022.03.28-15.51.17:215][351]AssetCheck: New page: Asset Save: Blocker
+[2022.03.28-15.51.17:215][351]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Blocker.Blocker
