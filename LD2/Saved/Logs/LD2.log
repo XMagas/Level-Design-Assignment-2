@@ -927,3 +927,54 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.28-14.59.10:894][998]LogFileHelpers: Loading map 'Marika' took 0.086
 [2022.03.28-14.59.10:906][998]AssetCheck: New page: Asset Save: Marika
 [2022.03.28-14.59.10:906][998]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Marika.Marika
+[2022.03.28-15.02.14:787][ 50]LogSlate: Window 'Viewport 1' being destroyed
+[2022.03.28-15.02.14:795][ 50]LogSlate: Window 'Viewport 1' being destroyed
+[2022.03.28-15.02.18:330][453]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.03.28-15.02.18:335][453]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.03.28-15.02.28:346][655]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> Picture1_Widget
+[2022.03.28-15.02.28:347][655]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.03.28-15.02.29:944][845]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Picture1_Widget.Picture1_Widget
+[2022.03.28-15.02.30:022][845]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2022.03.28-15.02.30:938][845]LogSlate: Took 0.001439 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.03.28-15.02.47:693][851]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.03.28-15.02.47:709][851]LogContentBrowser: Creating deferred item: NewFolder
+[2022.03.28-15.02.56:578][916]LogContentBrowser: Attempting asset rename: NewFolder -> Sprites
+[2022.03.28-15.02.56:580][916]LogContentBrowser: End creating deferred item NewFolder
+[2022.03.28-15.03.06:195][273]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\marik\Pictures\Symbol_Triangle.png)
+[2022.03.28-15.03.06:246][273]LogTexture: Display: Building textures: Symbol_Triangle (BGRA8, 2000X1430)
+[2022.03.28-15.04.37:151][236]BlueprintLog: New page: Compile Picture1_Widget
+[2022.03.28-15.04.37:190][236]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.03.28-15.04.37:733][282]LogSavePackage: Moving '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Saved/Picture1_Widget27C590D44601604039DE838CC2408355.tmp' to '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Content/ThirdPersonBP/Blueprints/Picture1_Widget.uasset'
+[2022.03.28-15.04.37:754][282]AssetCheck: New page: Asset Save: Picture1_Widget
+[2022.03.28-15.04.37:754][282]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Picture1_Widget.Picture1_Widget
+[2022.03.28-15.04.46:358][245]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.28-15.04.47:670][245]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.03.28-15.04.47:677][245]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.03.28-15.04.47:685][245]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.03.28-15.04.56:217][258]LogContentBrowser: Attempting asset rename: NewBlueprint -> PictureSpot1_BP
+[2022.03.28-15.04.56:220][258]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.03.28-15.04.58:011][464]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/PictureSpot1_BP.PictureSpot1_BP
+[2022.03.28-15.04.59:152][546]LogSlate: Took 0.000809 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.03.28-15.05.23:005][879]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.03.28-15.05.23:021][879]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.28-15.06.05:176][672]BlueprintLog: New page: Compile PictureSpot1_BP
+[2022.03.28-15.06.05:213][672]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.03.28-15.06.05:635][712]LogSavePackage: Moving '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Saved/PictureSpot1_BP3BC2F47C403A8A6A9B92FDB1351DCCAF.tmp' to '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Content/ThirdPersonBP/Blueprints/PictureSpot1_BP.uasset'
+[2022.03.28-15.06.05:645][712]AssetCheck: New page: Asset Save: PictureSpot1_BP
+[2022.03.28-15.06.05:646][712]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/PictureSpot1_BP.PictureSpot1_BP
+[2022.03.28-15.07.53:608][516]BlueprintLog: New page: Compile PictureSpot1_BP
+[2022.03.28-15.07.53:643][516]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.03.28-15.07.54:057][555]LogSavePackage: Moving '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Saved/PictureSpot1_BP5ECD6EA245CB3F2CF76DD0A023454474.tmp' to '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Content/ThirdPersonBP/Blueprints/PictureSpot1_BP.uasset'
+[2022.03.28-15.07.54:073][555]AssetCheck: New page: Asset Save: PictureSpot1_BP
+[2022.03.28-15.07.54:073][555]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/PictureSpot1_BP.PictureSpot1_BP
+[2022.03.28-15.07.58:044][ 10]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.03.28-15.08.20:370][178]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.03.28-15.08.20:415][178]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2022.03.28-15.08.20:864][218]LogSavePackage: Moving '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Saved/ThirdPersonCharacterB179E06A4421B27559F5EFB0E9882868.tmp' to '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.03.28-15.08.20:883][218]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2022.03.28-15.08.20:883][218]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.03.28-15.08.54:959][887]BlueprintLog: New page: Compile PictureSpot1_BP
+[2022.03.28-15.08.54:998][887]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2022.03.28-15.08.55:576][947]LogSavePackage: Moving '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Saved/PictureSpot1_BPC19063AC4B7BDCDDB776C99CBDB39628.tmp' to '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/Level-Design-Assignment-2/LD2/Content/ThirdPersonBP/Blueprints/PictureSpot1_BP.uasset'
+[2022.03.28-15.08.55:589][947]AssetCheck: New page: Asset Save: PictureSpot1_BP
+[2022.03.28-15.08.55:589][947]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/PictureSpot1_BP.PictureSpot1_BP
